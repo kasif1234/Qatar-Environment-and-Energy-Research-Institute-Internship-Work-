@@ -14,13 +14,25 @@ https://chatgpt.com/c/693fca6a-2098-8332-887b-b173b2c732fa
 
 
 
+Dai Haiwen \[Interview] -> 
+
+1. scopas -> search engine
+2. web of sciences
+3. google scholar -> compile pdfs
+
+4\. method to extract pdfs \[Identify the right research groups]
+
+&nbsp;	a. Identify styles of (many seeback and electrical conductivity) -> list all methods
+
+&nbsp;	b. 
+
 
 
 #### **Key areas:**
 
-1. XYdigitizer -> Tedious method 
+1. XYdigitizer -> Tedious method
 2. Text-mining/Data-mining
-3. automatic data extraction 
+3. automatic data extraction
 
 
 
@@ -28,9 +40,9 @@ https://chatgpt.com/c/693fca6a-2098-8332-887b-b173b2c732fa
 
 Mine Parameters -> *See back* and *electrical conductivity* for conducting polymers
 
-thermoelectric polymers -> Subnatica
+thermoelectric polymers -> scopas
 
-Text mining Approach 
+Text mining Approach
 
 ================================================================================================================================
 
@@ -42,7 +54,7 @@ Machine Learning for Molecular and Materials Science
 
 
 
-⬇️
+
 
 
 
@@ -350,7 +362,7 @@ Machine learning as a core scientific tool, not just an accelerator
 
 ================================================================================================================================
 
-Paper 2: (High throughput and machine learning 
+Paper 2: (High throughput and machine learning
 
 approaches for thermoelectric materials)
 
@@ -365,8 +377,4 @@ approaches for thermoelectric materials)
 
 
 ================================================================================================================================
-
-
-
-
 
