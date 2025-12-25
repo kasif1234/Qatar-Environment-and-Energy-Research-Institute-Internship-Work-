@@ -1,3 +1,5 @@
+**\[TODO, My Approach, Key areas, Dr. Anas Abutaha, Dai Haiwen pipeline Analysis, P1, P2, *Info to look into latest:*]**
+
 #### **TODO:**
 
 1\. Literature review (3 papers)
@@ -14,7 +16,7 @@ https://chatgpt.com/c/693fca6a-2098-8332-887b-b173b2c732fa
 
 
 
-Dai Haiwen \[Interview] -> 
+Dai Haiwen \[Interview] ->
 
 1. scopas -> search engine
 2. web of sciences
@@ -22,9 +24,27 @@ Dai Haiwen \[Interview] ->
 
 4\. method to extract pdfs \[Identify the right research groups]
 
-&nbsp;	a. Identify styles of (many seeback and electrical conductivity) -> list all methods
+ 	a. Identify styles of (many seeback and electrical conductivity) -> list all methods
 
-&nbsp;	b. 
+ 	b.
+
+
+
+
+
+#### **My Approach:**
+
+Resources -> \[Medium articles, Videos, Academic papers, msg DH \&\& AA]
+
+1. Establish the entire dataset -> Sample evenly for ground truth based on differing format/publication owners
+2. Design algo -> Test against ground truth -> Define 5 metrics (Provides good analysis) -> Accuracy 
+3. Once Algo obtains high accuracy -> Run on entire dataset -> Save CSV
+
+
+
+
+
+
 
 
 
@@ -43,6 +63,26 @@ Mine Parameters -> *See back* and *electrical conductivity* for conducting polym
 thermoelectric polymers -> scopas
 
 Text mining Approach
+
+
+
+#### **Dai Haiwen pipeline Analysis:**
+
+**Key Sections to Extract:**
+
+• Abstract – quick overview of catalyst, cell type, and main performance claims
+
+• Introduction – context, motivation, and comparison targets
+
+• Experimental / Methods – catalyst synthesis, ink preparation, substrates, cell setup
+
+• Electrochemical testing setup – electrolytes, electrodes, CO₂ flow, temperature, pressure
+
+• Results and Discussion – i–V curves, Faradaic efficiency, stability, trends
+
+• Figures and plots – performance curves, schematics, microscopy images
+
+• Supplementary Information – detailed procedures, extra data, raw tables
 
 ================================================================================================================================
 
@@ -377,4 +417,201 @@ approaches for thermoelectric materials)
 
 
 ================================================================================================================================
+
+
+
+
+
+
+
+#### ***Info to look into latest:*** 
+
+===========================
+
+1. Cross check "My approach" with Dai Haiwen pipeline approach -> then u get refined "My approach"
+2. 
+
+===========================
+
+Improved version of your approach
+
+
+
+1\. Dataset definition and stratified sampling
+
+
+
+Define the full dataset and its heterogeneity (publisher, year, layout type, scanned vs digital).
+
+
+
+Create a stratified ground-truth subset that evenly represents these variations.
+
+
+
+2\. Ground-truth schema design
+
+
+
+Define variables, units, acceptable ranges, and tolerance rules.
+
+
+
+Specify what counts as “correct” (exact match vs numeric tolerance).
+
+
+
+3\. Algorithm design (iterative)
+
+
+
+Build a baseline extraction algorithm.
+
+
+
+Attach provenance to every extracted value (page, snippet, bounding box).
+
+
+
+4\. Evaluation against ground truth
+
+
+
+Evaluate using multiple metrics, not just accuracy:
+
+
+
+Precision
+
+
+
+Recall
+
+
+
+F1-score
+
+
+
+Numeric error (MAE or tolerance-based accuracy)
+
+
+
+Missing rate
+
+
+
+5\. Error analysis and refinement
+
+
+
+Categorize failures (layout error, OCR error, unit mismatch, ambiguity).
+
+
+
+Improve rules or models based on dominant failure modes.
+
+
+
+6\. Acceptance threshold
+
+
+
+Define a minimum acceptable performance per variable (e.g. F1 ≥ 0.9, missing rate ≤ 5%).
+
+
+
+7\. Scale-up execution
+
+
+
+Run algorithm on full dataset.
+
+
+
+Log confidence scores and flag low-confidence extractions.
+
+
+
+8\. Post-run validation
+
+
+
+Perform random audits and consistency checks on large-scale outputs.
+
+
+
+Export final structured dataset (CSV).
+
+
+
+Why this is better than the original
+
+1\. Accuracy alone is not enough
+
+
+
+Accuracy hides failure modes.
+
+Precision and recall tell you what you missed vs what you hallucinated.
+
+
+
+2\. Stratified sampling prevents false confidence
+
+
+
+If your ground truth is biased toward “easy PDFs”, your algorithm will fail at scale.
+
+
+
+3\. Provenance is critical
+
+
+
+Without source location, you cannot debug or trust your outputs.
+
+
+
+4\. Error analysis is where real progress happens
+
+
+
+Most performance gains come from fixing the top 2–3 failure types, not adding complexity.
+
+
+
+5\. Acceptance thresholds make it scientific
+
+
+
+You are no longer “hoping” it works. You are certifying it works.
+
+
+
+One-line summary (research-grade framing)
+
+
+
+Develop an extraction algorithm, validate it against a stratified ground-truth dataset using multi-metric evaluation, iterate through error analysis, and deploy at scale with confidence-aware outputs.
+
+
+
+If you want, next I can:
+
+
+
+Turn this into a methods section for a paper
+
+
+
+Design the exact 5 metrics mathematically
+
+
+
+Help you define a ground-truth annotation protocol
+
+
+
+Just tell me what you want to formalize next.
 
