@@ -6,6 +6,8 @@
 
 2\. Refine AI/ML skills - Project based approach -> (Learn by doing)
 
+3\. Cross check "My approach" with Dai Haiwen pipeline approach -> then u get refined "My approach"
+
 
 
 ==================
@@ -37,7 +39,7 @@ Dai Haiwen \[Interview] ->
 Resources -> \[Medium articles, Videos, Academic papers, msg DH \&\& AA]
 
 1. Establish the entire dataset -> Sample evenly for ground truth based on differing format/publication owners
-2. Design algo -> Test against ground truth -> Define 5 metrics (Provides good analysis) -> Accuracy 
+2. Design algo -> Test against ground truth -> Define 5 metrics (Provides good analysis) -> Accuracy
 3. Once Algo obtains high accuracy -> Run on entire dataset -> Save CSV
 
 
@@ -424,7 +426,7 @@ approaches for thermoelectric materials)
 
 
 
-#### ***Info to look into latest:*** 
+#### ***Info to look into latest:***
 
 ===========================
 
@@ -614,4 +616,12 @@ Help you define a ground-truth annotation protocol
 
 
 Just tell me what you want to formalize next.
+
+
+
+**\[Ask Questions it will take you deep]**
+
+1. **Vector pdf -> Is a PDF where figures are stored as mathematical objects (lines, curves, text, coordinates), not pixels.**
+
+
 
