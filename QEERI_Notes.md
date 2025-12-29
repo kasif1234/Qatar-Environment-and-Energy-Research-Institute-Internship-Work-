@@ -1,5 +1,7 @@
 **\[TODO, My Approach, Key areas, Dr. Anas Abutaha, Dai Haiwen pipeline Analysis, P1, P2, *Info to look into latest:*]**
 
+**\[KEEP Reading this Regularly] -> https://dblalock.github.io/how-to-undergrad-research/**
+
 #### **TODO:**
 
 1\. Literature review (3 papers)
@@ -72,21 +74,47 @@ Text mining Approach
 
 **Key Sections to Extract:**
 
-• Abstract – quick overview of catalyst, cell type, and main performance claims
+1. Clear schema \& traceability
 
-• Introduction – context, motivation, and comparison targets
+Example: For one paper, link Cu nanoparticle (25 nm) → spray coating (0.5 mg cm⁻²) → flow cell → i–V–FE curve → 12 h stability decay = 8%.
 
-• Experimental / Methods – catalyst synthesis, ink preparation, substrates, cell setup
 
-• Electrochemical testing setup – electrolytes, electrodes, CO₂ flow, temperature, pressure
 
-• Results and Discussion – i–V curves, Faradaic efficiency, stability, trends
+2\. Golden Dataset (manual, high quality)
 
-• Figures and plots – performance curves, schematics, microscopy images
+Example: Manually extract all fields from a Feng Jiao paper and store them in a clean table or JSON with zero missing values.
 
-• Supplementary Information – detailed procedures, extra data, raw tables
 
-================================================================================================================================
+
+3\. Multimodal parsing (text + figures)
+
+Example: Read electrolyte composition from text, then digitize the FE vs voltage curve from a plotted figure to recover numeric data points.
+
+\[Ingest paper (PDF) and split into: text blocks, tables, figures. Detect figure types (is this an i–V curve, FE curve, stability plot, or schematic?). Extract structured fields from text/tables (NER + rules + LLM). Digitize plots for curves (axis detection, scaling, line extraction, point sampling). Normalize units and vocabulary (RHE vs SHE, sccm vs mL/min, “MEA” synonyms). Validate with constraints (schema rules + cross-checks).Attach provenance (page/figure/table references).Export to DB-ready JSON/CSV.]
+
+
+
+4\. Defaults \& normalization rules
+
+Example: If temperature is not reported, automatically record 298 K and flag it as “assumed”.
+
+
+
+5\. Silver Dataset (semi-automated)
+
+Example: Run the pipeline on 50 papers, then manually spot-check 5 to compare extracted FE values against the originals.
+
+
+
+6\. Iterative prompt and logic refinement
+
+Example: Adjust prompts so that “flow cell with anion-exchange membrane” is always classified as MEA-type rather than free text.
+
+
+
+7\. Final searchable database
+
+Example: Query the database with “Cu catalyst + flow cell + FE > 60% for C₂ products” and retrieve matching papers instantly.================================================================================================================================
 
 #### **Paper 1 (Machine Learning for molecules and material science):**
 
@@ -619,9 +647,35 @@ Just tell me what you want to formalize next.
 
 
 
-**\[Ask Questions it will take you deep]**
+**\[Ask Questions it will take you deep]** 
 
 1. **Vector pdf -> Is a PDF where figures are stored as mathematical objects (lines, curves, text, coordinates), not pixels.**
+2. **Should we prepare a solid dataset**
+3. **Are you looking for a fully developed pipeline \[Takes in 100 pdfs]**
 
 
+
+
+
+***Options I have:***
+
+1. Extract vector paths directly from the PDF if the figure is vector
+
+2\. Render the figure at high DPI and do image-based digitization
+
+3\. Use axis calibration + curve tracing to recover numerical data
+
+4\. Apply color or style separation to handle multiple lines
+
+5\. Run OCR on axis labels and legends to recover units and meaning
+
+6\. Use semi-automatic tools (e.g. manual calibration, auto-trace) **\[NO]**
+
+7\. Build a fully automated OpenCV pipeline for batch extraction
+
+8\. Validate extracted curves against ground-truth or physics constraints
+
+9\. Store outputs as structured datasets (CSV, JSON)
+
+10\. Add quality checks and confidence scores per extracted curve
 
