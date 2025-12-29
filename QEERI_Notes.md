@@ -1,14 +1,26 @@
 **\[TODO, My Approach, Key areas, Dr. Anas Abutaha, Dai Haiwen pipeline Analysis, P1, P2, *Info to look into latest:*]**
 
-**\[KEEP Reading this Regularly] -> https://dblalock.github.io/how-to-undergrad-research/**
+###### ***\[KEEP Reading this Regularly]* ->** https://dblalock.github.io/how-to-undergrad-research/
+
+###### **\[Graduate Scholarship Program] ->** https://innolight.qrdi.org.qa/innovation/p/opportunities/p/24
+
+
+
+
 
 #### **TODO:**
 
-1\. Literature review (3 papers)
+1\. Literature review (3 papers) \[Done]
 
-2\. Refine AI/ML skills - Project based approach -> (Learn by doing)
+2\. Refine AI/ML skills - Project based approach -> (Learn by doing) \[Done]
 
-3\. Cross check "My approach" with Dai Haiwen pipeline approach -> then u get refined "My approach"
+3\. Cross check "My approach" with Dai Haiwen pipeline approach -> then u get refined "My approach" \[Done]
+
+4\. Extract all relevant information, just do it (Graph2table)\[HERE]
+
+5\. Look at the images Dr. Anas drew and figure out the right pipeline for extraction using existing tools (Go to the references and extract from there(Its there in the caption)) (Sci-hub.se) \[HERE]
+
+6\. 
 
 
 
@@ -647,7 +659,7 @@ Just tell me what you want to formalize next.
 
 
 
-**\[Ask Questions it will take you deep]** 
+**\[Ask Questions it will take you deep]**
 
 1. **Vector pdf -> Is a PDF where figures are stored as mathematical objects (lines, curves, text, coordinates), not pixels.**
 2. **Should we prepare a solid dataset**
