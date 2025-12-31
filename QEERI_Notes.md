@@ -20,7 +20,7 @@
 
 5\. Look at the images Dr. Anas drew and figure out the right pipeline for extraction using existing tools (Go to the references and extract from there(Its there in the caption)) (Sci-hub.se) \[HERE]
 
-6\. 
+6\.
 
 
 
@@ -690,4 +690,21 @@ Just tell me what you want to formalize next.
 9\. Store outputs as structured datasets (CSV, JSON)
 
 10\. Add quality checks and confidence scores per extracted curve
+
+
+
+
+
+**We here:**
+
+1. Use fast heuristics to get the correct image
+2. Grab the text according to the polymers of interest
+
+
+
+
+
+
+
+
 
