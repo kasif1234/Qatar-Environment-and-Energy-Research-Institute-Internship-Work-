@@ -1,0 +1,53 @@
+{
+  "source pdf": "PDFs_to_parse/GDOS_UMASS_Nature Comm_2019.pdf",
+  "entries": [
+    {
+      "polymer": "P3HT doped at 25 °C",
+      "film preparation method": null,
+      "dopant": null,
+      "doping method": null,
+      "solvent": null,
+      "characterisation": "P3HT ﬁlms doped at 75 °C showed a marginally narrower distribution of SPCs, suggesting that P3HT ﬁlms doped at 75 °C exhibit a slightly more homogeneous distribution of iodine-doped states compared to P3HT doped at 25 °C. σ trends with heterogeneous spatial distributions of dopants throughout the sample using surface potential contrast (SPC) mapping by Kelvin probe force microscopy (KPFM), which a 1.6 V 1 0.5 –0.1 –0.1 Probability (normalized, offset) –0.1 –0.1 –0.1 0.0 0.2 0.4 1.4 SPC (V) 1.6 1.8 2.0 0.5 0.5 0.5 0.5 Pristine P3HT Pristine PDPP4TT P3HT doped at 25 °C P3HT doped at 75 °C PDPP4T doped at 25 °C PDPP4T doped at 75 °C b c d e f Fig.",
+      "evidence": [
+        "P3HT ﬁlms doped at 75 °C showed a marginally narrower distribution of SPCs, suggesting that P3HT ﬁlms doped at 75 °C exhibit a slightly more homogeneous distribution of iodine-doped states compared to P3HT doped at 25 °C.",
+        "σ trends with heterogeneous spatial distributions of dopants throughout the sample using surface potential contrast (SPC) mapping by Kelvin probe force microscopy (KPFM), which a 1.6 V 1 0.5 –0.1 –0.1 Probability (normalized, offset) –0.1 –0.1 –0.1 0.0 0.2 0.4 1.4 SPC (V) 1.6 1.8 2.0 0.5 0.5 0.5 0.5 Pristine P3HT Pristine PDPP4TT P3HT doped at 25 °C P3HT doped at 75 °C PDPP4T doped at 25 °C PDPP4T doped at 75 °C b c d e f Fig."
+      ]
+    },
+    {
+      "polymer": "P3HT doped at 75 °C",
+      "film preparation method": null,
+      "dopant": null,
+      "doping method": null,
+      "solvent": null,
+      "characterisation": "Conductivity (black markers, left axes) and Seebeck coefﬁcient (blue markers, right axes) for a poly(3-hexylthiophene) (P3HT) doped at 25 °C (circles), b P3HT doped at 75 °C (squares), c poly[2,5-bis(2- octyldodecyl)pyrrolo[3,4-c]pyrrole-1,4(2H,5H)-dione-3,6-diyl)-alt- (2,2′;5′,2′′;5′′,2′′′-quaterthiophen-5,5′′′-diyl)] (PDPP4T) doped at 25 °C (up triangles), and d PDPP4T doped at 75 °C (down triangles). conductivity for poly(3-hexylthiophene) (P3HT) doped at 25 °C (black circles), P3HT doped at 75 °C (red squares), poly[2,5-bis(2-octyldodecyl)pyrrolo[3,4-c]pyrrole-1,4(2H,5H)-dione-3,6-diyl)-alt-(2,2′;5′,2′′;5′′,2′′ ′-quaterthiophen-5,5′′′-diyl)] (PDPP4T) doped at 25 °C (blue up triangles), and PDPP4T doped at 75 °C (purple down triangles).",
+      "evidence": [
+        "Conductivity (black markers, left axes) and Seebeck coefﬁcient (blue markers, right axes) for a poly(3-hexylthiophene) (P3HT) doped at 25 °C (circles), b P3HT doped at 75 °C (squares), c poly[2,5-bis(2- octyldodecyl)pyrrolo[3,4-c]pyrrole-1,4(2H,5H)-dione-3,6-diyl)-alt- (2,2′;5′,2′′;5′′,2′′′-quaterthiophen-5,5′′′-diyl)] (PDPP4T) doped at 25 °C (up triangles), and d PDPP4T doped at 75 °C (down triangles).",
+        "conductivity for poly(3-hexylthiophene) (P3HT) doped at 25 °C (black circles), P3HT doped at 75 °C (red squares), poly[2,5-bis(2-octyldodecyl)pyrrolo[3,4-c]pyrrole-1,4(2H,5H)-dione-3,6-diyl)-alt-(2,2′;5′,2′′;5′′,2′′ ′-quaterthiophen-5,5′′′-diyl)] (PDPP4T) doped at 25 °C (blue up triangles), and PDPP4T doped at 75 °C (purple down triangles)."
+      ]
+    },
+    {
+      "polymer": "PDPP4T doped at 25 °C",
+      "film preparation method": null,
+      "dopant": null,
+      "doping method": null,
+      "solvent": null,
+      "characterisation": "σ trends with heterogeneous spatial distributions of dopants throughout the sample using surface potential contrast (SPC) mapping by Kelvin probe force microscopy (KPFM), which a 1.6 V 1 0.5 –0.1 –0.1 Probability (normalized, offset) –0.1 –0.1 –0.1 0.0 0.2 0.4 1.4 SPC (V) 1.6 1.8 2.0 0.5 0.5 0.5 0.5 Pristine P3HT Pristine PDPP4TT P3HT doped at 25 °C P3HT doped at 75 °C PDPP4T doped at 25 °C PDPP4T doped at 75 °C b c d e f Fig. A histogram of measured surface potential contrast (SPC) and its Gaussian ﬁt, with the height map and SPC map inset, of a pristine poly(3-hexylthiophene) (P3HT), b pristine poly[2,5-bis(2-octyldodecyl)pyrrolo[3,4-c]pyrrole-1,4 (2H,5H)-dione-3,6-diyl)-alt-(2,2′;5′,2′′;5′′,2′′′-quaterthiophen-5,5′′′-diyl)] (PDPP4T), c P3HT doped at 25 °C, d P3HT doped at 75 °C, e PDPP4T doped at 25 °C, and f PDPP4T doped at 75 °C a b c d 10 Probability (normalized 0 –0.2 0.0 0.2 0.4 0.6 0.8 –0.2 0.0 0.2 0.4 0.6 0.8 –0.2 0.20 0.15 0.10 SPC (V) 0.05 0.00 0.0 0.2 0.4 0.6 0.8 200 Time (min) 150 100 50 0 200 150 100 50 0 200 150 100 50 0 200 150 100 50 0 Fig.",
+      "evidence": [
+        "σ trends with heterogeneous spatial distributions of dopants throughout the sample using surface potential contrast (SPC) mapping by Kelvin probe force microscopy (KPFM), which a 1.6 V 1 0.5 –0.1 –0.1 Probability (normalized, offset) –0.1 –0.1 –0.1 0.0 0.2 0.4 1.4 SPC (V) 1.6 1.8 2.0 0.5 0.5 0.5 0.5 Pristine P3HT Pristine PDPP4TT P3HT doped at 25 °C P3HT doped at 75 °C PDPP4T doped at 25 °C PDPP4T doped at 75 °C b c d e f Fig.",
+        "A histogram of measured surface potential contrast (SPC) and its Gaussian ﬁt, with the height map and SPC map inset, of a pristine poly(3-hexylthiophene) (P3HT), b pristine poly[2,5-bis(2-octyldodecyl)pyrrolo[3,4-c]pyrrole-1,4 (2H,5H)-dione-3,6-diyl)-alt-(2,2′;5′,2′′;5′′,2′′′-quaterthiophen-5,5′′′-diyl)] (PDPP4T), c P3HT doped at 25 °C, d P3HT doped at 75 °C, e PDPP4T doped at 25 °C, and f PDPP4T doped at 75 °C a b c d 10 Probability (normalized 0 –0.2 0.0 0.2 0.4 0.6 0.8 –0.2 0.0 0.2 0.4 0.6 0.8 –0.2 0.20 0.15 0.10 SPC (V) 0.05 0.00 0.0 0.2 0.4 0.6 0.8 200 Time (min) 150 100 50 0 200 150 100 50 0 200 150 100 50 0 200 150 100 50 0 Fig."
+      ]
+    },
+    {
+      "polymer": "PDPP4T doped at 75 °C",
+      "film preparation method": null,
+      "dopant": null,
+      "doping method": null,
+      "solvent": null,
+      "characterisation": "Conductivity (black markers, left axes) and Seebeck coefﬁcient (blue markers, right axes) for a poly(3-hexylthiophene) (P3HT) doped at 25 °C (circles), b P3HT doped at 75 °C (squares), c poly[2,5-bis(2- octyldodecyl)pyrrolo[3,4-c]pyrrole-1,4(2H,5H)-dione-3,6-diyl)-alt- (2,2′;5′,2′′;5′′,2′′′-quaterthiophen-5,5′′′-diyl)] (PDPP4T) doped at 25 °C (up triangles), and d PDPP4T doped at 75 °C (down triangles). conductivity for poly(3-hexylthiophene) (P3HT) doped at 25 °C (black circles), P3HT doped at 75 °C (red squares), poly[2,5-bis(2-octyldodecyl)pyrrolo[3,4-c]pyrrole-1,4(2H,5H)-dione-3,6-diyl)-alt-(2,2′;5′,2′′;5′′,2′′ ′-quaterthiophen-5,5′′′-diyl)] (PDPP4T) doped at 25 °C (blue up triangles), and PDPP4T doped at 75 °C (purple down triangles).",
+      "evidence": [
+        "Conductivity (black markers, left axes) and Seebeck coefﬁcient (blue markers, right axes) for a poly(3-hexylthiophene) (P3HT) doped at 25 °C (circles), b P3HT doped at 75 °C (squares), c poly[2,5-bis(2- octyldodecyl)pyrrolo[3,4-c]pyrrole-1,4(2H,5H)-dione-3,6-diyl)-alt- (2,2′;5′,2′′;5′′,2′′′-quaterthiophen-5,5′′′-diyl)] (PDPP4T) doped at 25 °C (up triangles), and d PDPP4T doped at 75 °C (down triangles).",
+        "conductivity for poly(3-hexylthiophene) (P3HT) doped at 25 °C (black circles), P3HT doped at 75 °C (red squares), poly[2,5-bis(2-octyldodecyl)pyrrolo[3,4-c]pyrrole-1,4(2H,5H)-dione-3,6-diyl)-alt-(2,2′;5′,2′′;5′′,2′′ ′-quaterthiophen-5,5′′′-diyl)] (PDPP4T) doped at 25 °C (blue up triangles), and PDPP4T doped at 75 °C (purple down triangles)."
+      ]
+    }
+  ]
+}

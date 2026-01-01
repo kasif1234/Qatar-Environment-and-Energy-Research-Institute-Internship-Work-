@@ -710,7 +710,11 @@ Heuristics approach:
 
 
 
+**Extraction Setup code Logic:**
 
-
-
-
+1. &nbsp;Loop pdf, have multiple parameters \[Which pdf, which page, etc (Scalable)] to ensure SCALABILITY
+2. &nbsp;Obtain each figures -> Check if v/k and s/m exist \& check if legend exist -> {Symbols + Text} -> Save the text to build the json
+3. &nbsp;Check how many panels -> Split Panels  
+4. &nbsp;Obtain the \[fig. {adfaff}] text then do another sweep with predefined JSON parameters and fill the required fields
+5. &nbsp;If legend exist does not exist then craft an image with legend + line graph
+6. &nbsp;Graph2Table -> {one line graph with v/k \& s/m \& legend defined}
