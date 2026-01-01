@@ -699,8 +699,14 @@ Just tell me what you want to formalize next.
 
 1. Use fast heuristics to get the correct image
 2. Grab the text according to the polymers of interest
+3. System prompt
 
 
+
+Heuristics approach:
+
+1. There seems to be a,b,c,d
+2. It needs to have a legend
 
 
 
