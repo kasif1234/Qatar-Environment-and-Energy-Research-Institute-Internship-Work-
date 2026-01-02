@@ -718,3 +718,72 @@ Heuristics approach:
 4. &nbsp;Obtain the \[fig. {adfaff}] text then do another sweep with predefined JSON parameters and fill the required fields
 5. &nbsp;If legend exist does not exist then craft an image with legend + line graph
 6. &nbsp;Graph2Table -> {one line graph with v/k \& s/m \& legend defined}
+
+
+
+
+
+
+
+OPENAI API
+
+1. why do we need openai
+2. how does it help me
+3. how to use in my computer
+
+
+
+RAG -> Tomorrow we will implement the RAG system, properly
+
+Watch this \[https://www.youtube.com/watch?v=2TJxpyO3ei4]
+
+Ingest: load 5 to 20 docs (PDF or text) into chunks
+
+Index: embed chunks and store in a vector store
+
+Retrieve: given a question, return top k chunks with scores
+
+Generate: answer using only retrieved context
+
+Evaluate: 10 questions, track if answers cite the right chunks
+
+Output: a single CLI or simple web endpoint that works end to end
+
+
+
+RAG PIPELINE ->
+
+Ingestion: PDF to text, keep structure (title, headings, page, caption)
+
+
+
+Chunking: 300 to 800 tokens, overlap 50 to 150 tokens (tune per domain) 
+
+
+
+Embeddings: pick a strong embedding model and stay consistent 
+
+
+
+Vector store: FAISS for local, or managed DB for scale
+
+
+
+Retrieval: top k 6, filter by metadata when possible
+
+
+
+Rerank: add if you see wrong chunks often
+
+
+
+Prompt: “answer only using context, cite sources, say I do not know”
+
+
+
+Guardrails: max context size, dedup near duplicate chunks
+
+
+
+Evaluation: a small labeled set of questions, track metrics
+
