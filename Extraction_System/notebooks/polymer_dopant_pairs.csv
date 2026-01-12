@@ -1,0 +1,241 @@
+polymer,dopant,context,page
+Abstract,In,"nt Progress in Organic Thermoelectric Materials and Devices
+Abstract: In recent years, thermoelectric (TE) devices have attracted a",1
+Keywords,organic,"prospects to further optimize TE performance are discussed.
+Keywords: organic thermoelectrics, waste heat, Seebeck coefficient, conductiv",1
+Acknowledgments,This,"23, 2020 / Accepted April 28, 2020
+ZT
+α2σT
+k
+------------
+=
+Acknowledgments: This work was supported by the National Research
+Foundation (NRF",1
+Authors,Hyunjung,"0, 2017R1A2B2010552, and 2015R1A5A7037615). 
+*Corresponding Authors: Hyunjung Lee (hyunjung@kookmin.ac.kr), 
+Han Young Woo (hywoo@korea.a",1
+dioxythiophene),poly(styrene,"xtensively studied p-type TE material is poly(3,4-ethylene-
+dioxythiophene):poly(styrene sulfonate) (PEDOT:PSS). Its facile
+processability and stabi",2
+PEDOT,PSS,"poly(3,4-ethylene-
+dioxythiophene):poly(styrene sulfonate) (PEDOT:PSS). Its facile
+processability and stability when heavily dope",2
+PEDOT,PSS.21,"mixed PEDOT:PSS and from 0.32 to 0.23
+W m-1 K-1 in EG-mixed PEDOT:PSS.21 Similarly, Kim et al. reported
+a post-treatment method that",2
+PEDOT,Tos,"ptimize
+the thermoelectric properties. Crispin et al. added PEDOT:Tos
+to the reducing agent, tetrakis(dimethylamino)ethylene (TDA",2
+PP-PEDOT,prepared,"at room temperature.26 Kim et al. introduced PP-
+PEDOT:Tos (PP-PEDOT: prepared from a mixture of pyridine
+and triblock copolymer, poly(eth",3
+PBTTT-C14,FTS,"that of FTS (1000 S cm-1) via vapor doping, the vapor-doped
+PBTTT-C14:FTS film had a maximum PF of 110 μW m-1 K-2. They
+observed that",3
+P3HT,FeCl3,"utiliz-
+ing different doping methods, Jang et al. prepared P3HT:FeCl3
+films by wire bar coating. This method improved the intermo",3
+polymer,dopant,"(up to 38 mol%).
+This permitted the preparation of uniform polymer:dopant films
+for which maximum PF of 31.5 μW m-1 K-2 and 21.8 μW m",4
+PDPP(6-DO)2TT,F4TCNQ,"0
+(CN6-CP). In this report, the maximum conductivity of the
+PDPP(6-DO)2TT:F4TCNQ ﬁlms was 10-2 S cm-1 whereas that of the
+PDPP(6-DO)2TT:CN6-",5
+PDPP(6-DO)2TT,CN6-CP,"PP(6-DO)2TT:F4TCNQ ﬁlms was 10-2 S cm-1 whereas that of the
+PDPP(6-DO)2TT:CN6-CP films was superior (70 S cm-1). This
+difference was attribu",5
+PEDOT,PSS/EMIM-DCA,"F (μV K-1) PFmax (μW m-1 K-2)
+Methods
+Ref
+Acid-base treated PEDOT:PSS/EMIM-DCA
+(1600)
+(65)
+754
+Sequential
+16
+PEDOT:PSS
+(265)
+(~400)
+23.5
+E",6
+PEDOT,Tos/TDAE,"d PEO
+23
+PEDOT:PSS
+2170
+39.2
+334
+Treated with H2SO4/NaOH
+24
+PEDOT:Tos/TDAE
+~67 (300)
+~220 (780)
+324
+Vapor treatment
+26
+PP-PEDOT:Tos
+11",6
+PP-PEDOT,Tos,"PEDOT:Tos/TDAE
+~67 (300)
+~220 (780)
+324
+Vapor treatment
+26
+PP-PEDOT:Tos
+117 (2120)
+930
+1270
+Electrochemical treatment
+17
+PEDOT:Tos",6
+P3HT,F4TCNQ,"s even at much lower doping levels
+(less than 1 mol% in the P3HT:F4TCNQ system dissolved in
+chlorobenzene).30,31,76-78 One of the m",11
+trend,as,"tively. The doped Q-DCM-DPPTT
+also showed a similar inverse trend: as α decreased from -875
+to -383 μV K-1, the σ increased up to",11
+equation,82,"ive the relationship between α
+and σ by using the following equation:82
+(4)
+where B and C are constants and are given by fitting th",12
+reported,nearest,"d hopping.
+Two types of hopping conduction models have been reported:
+nearest neighbor hopping (NNH) and variable range hopping
+(VRH). Th",12
+follows,84,"e EF and at a constant DOS. The
+σ and α can be described as follows:84
+(5)
+(6)
+where σ0 is the pre-exponential factor, T is temper",12
+PEDOT,Tos26,"urity scattering. To date, only a few PEDOT-
+based systems (PEDOT:Tos26 and PEDOS-C6
+95) have been reported
+to follow the α-σ curve",14
+PEDOT,PSS-coated,"oisture permeability.98 In this report, the σ, α, and PF of
+PEDOT:PSS-coated polyester fabric were 1.5 S cm-1, 18.5 μV K-1,
+and 45 μW m-",14
+Te/PEDOT,PSS,"mm3)
+Fabrication
+Method
+Ref
+n-type
+p-type
+n-type p-type
+N/A
+Te/PEDOT:PSS
+N/A
+284
+10
+0.01059
+12.75
+16 (legs)
+N/A
+N/A
+9
+N/A
+PEDOT:PSS",15
+PEDOT,PSS/ITO,".51 
+11.3 
+3
+16×10×0.15
+Drop-casting,
+selectable doping
+103
+PEDOT:PSS/ITO
+PEDOT:PSS
+N/A
+N/A
+20
+8.6×10-4
+6.8 
+8
+50×5
+Spin coating
+104",15
+CNT/PEDOT,PSS/PEI,"EI
+urea-SWNTs
+50
+15
+50
+0.96
+7
+4
+40×40
+Vacuum filtration
+109
+CNT/PEDOT:PSS/PEI
+CNT/PEDOT:PSS
+113
+83.2
+10
+0.430
+8
+12 
+0.5×15
+Wet spinning
+1",15
+CNT/PEDOT,PSS,"5
+50
+0.96
+7
+4
+40×40
+Vacuum filtration
+109
+CNT/PEDOT:PSS/PEI
+CNT/PEDOT:PSS
+113
+83.2
+10
+0.430
+8
+12 
+0.5×15
+Wet spinning
+110
+SWNT/PEI
+PE",15
+PEDOT,PSS/NaOH,"cs
+N/A
+N/A
+60
+375 
+45.2
+8
+47.5
+(mm, length)
+Soaking
+112
+N/A
+PEDOT:PSS/NaOH
+N/A
+N/A
+85.5
+0.32
+52.3
+162 (legs) 
+5×5
+Screen printed
+113
+C",15
+PEDOT,PSS-based,"se to vertical
+heat flow.99,105,113 Cho et al. introduced a PEDOT:PSS-based TE
+device with a chevron device structure and thermally ins",16
+PEDOT,PSS/DMSO,"structure and thermally insulat-
+ing PU (Figure 7(a)).105 A PEDOT:PSS/DMSO film was prepared
+using the electro-spraying process. TE pr",16
+ITO)-PEDOT,PSS,"ice using PEDOT:PSS as the p-type leg and indium tin oxide
+(ITO)-PEDOT:PSS as the n-type leg (Figure 8(a)).104 Deposition
+of the condu",17
+ITO-PEDOT,PSS,"e ITO served
+to maintain the mechanical flexibility of ITO. ITO-PEDOT:PSS
+showed a negative α value (-14.27 μV K-1) and slightly lowe",17
+tellurium-PEDOT,PSS,"generators by a simple printing process
+using H2SO4-treated tellurium-PEDOT:PSS (Te-PEDOT:PSS). TE
+properties of PEDOT:PSS and Te-PEDOT:PSS",17
+Te-PEDOT,PSS,"e printing process
+using H2SO4-treated tellurium-PEDOT:PSS (Te-PEDOT:PSS). TE
+properties of PEDOT:PSS and Te-PEDOT:PSS hybrid compos",17
+concentration,as,"nd α have a
+trade-off relationship depending on the carrier concentration:
+as the carrier density increases, σ increases, but α decreases",20
