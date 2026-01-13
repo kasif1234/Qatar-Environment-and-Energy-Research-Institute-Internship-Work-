@@ -1,0 +1,17 @@
+name: film_prep
+version: v001
+patterns:
+  - id: spin_coat
+    label: spin coating / spin casting
+    regex: '\bspin\s*(coat(ing)?|cast(ing)?)\b'
+    priority: 90
+
+  - id: drop_cast
+    label: drop casting
+    regex: '\bdrop\s*cast(ing|ed)?\b'
+    priority: 80
+
+  - id: wire_bar
+    label: wire-bar coating
+    regex: '\bwire[-\s]*bar\s*coat(ing|ed)?\b'
+    priority: 80

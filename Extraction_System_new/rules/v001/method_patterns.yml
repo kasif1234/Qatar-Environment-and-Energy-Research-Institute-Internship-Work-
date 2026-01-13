@@ -1,0 +1,17 @@
+name: doping_method
+version: v001
+patterns:
+  - id: vapor_doping
+    label: vapor doping
+    regex: '\bvapor\s*dop(ing|ed)\b|\bvapou?r\s*dop(ing|ed)\b'
+    priority: 90
+
+  - id: immersion_doping
+    label: immersion / dipping
+    regex: '\bimmersion\b|\bdipp(ing|ed)\b'
+    priority: 80
+
+  - id: solution_mixing
+    label: solution mixing / coprocessing
+    regex: '\bsolution\s*mix(ing|ed)\b|\bcoprocess(ing|ed)\b|\bco-?process(ing|ed)\b'
+    priority: 70

@@ -1,0 +1,17 @@
+name: polymer
+version: v001
+patterns:
+  - id: pedot_pss
+    label: PEDOT:PSS
+    regex: '\bPEDOT\s*[:/]\s*PSS\b|\bPEDOTPSS\b'
+    priority: 100
+
+  - id: pedot_tos
+    label: PEDOT:Tos
+    regex: '\bPEDOT\s*[:/]\s*Tos\b|\bPEDOT\s*tosylate\b'
+    priority: 80
+
+  - id: p3ht
+    label: P3HT
+    regex: '\bP3HT\b|\bpoly\(3-hexylthiophene\)\b'
+    priority: 70

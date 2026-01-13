@@ -1,0 +1,17 @@
+name: dopant
+version: v001
+patterns:
+  - id: f4tcnq
+    label: F4TCNQ
+    regex: '\bF4TCNQ\b'
+    priority: 95
+
+  - id: fecl3
+    label: FeCl3
+    regex: '\bFeCl3\b|\bferric\s*chloride\b'
+    priority: 90
+
+  - id: tdae
+    label: TDAE
+    regex: '\bTDAE\b'
+    priority: 70

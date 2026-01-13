@@ -1,0 +1,17 @@
+name: solvent
+version: v001
+patterns:
+  - id: dmso
+    label: DMSO
+    regex: '\bDMSO\b|\bdimethyl\s*sulfoxide\b'
+    priority: 90
+
+  - id: eg
+    label: EG
+    regex: '\bEG\b|\beth\w*\s*glycol\b'
+    priority: 80
+
+  - id: acetonitrile
+    label: acetonitrile
+    regex: '\bacetonitrile\b|\bMeCN\b'
+    priority: 70

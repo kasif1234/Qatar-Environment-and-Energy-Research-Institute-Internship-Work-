@@ -1,0 +1,5 @@
+ignore_phrases:
+  - "not specified"
+  - "not reported"
+  - "n/a"
+  - "references"
