@@ -1,0 +1,2566 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "dopant": [
+        {
+          "value": "solution-based",
+          "evidence": "Conversely, organic materials offer more cost-effective high-throughput fabrication using solution-based printing techniques with the additional advantages such as facile tunability of molecular struc- tures to tailor...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "and",
+          "evidence": "In this review, recent progresses in the organic TE materials and devices, dopants and doping method, charge transport models and flexible TE device applications are summarized and the key strategies and future prospe...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "13233",
+          "evidence": "DOI 10.1007/s13233-020-8116-y www.springer.com/13233 pISSN 1598-5032 eISSN 2092-7673 Macromolecular Research Review Macromol.",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "Accepted",
+          "evidence": "Organic materials are flexible and robust with low weight and low thermal conductivity (0.1- 0.8W m-1 K-1).14 Therefore, organic TE materials have been identi- fied as an alternative to find complementary applications...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "organic",
+          "evidence": "Keywords: organic thermoelectrics, waste heat, Seebeck coefficient, conductivity, power factor.",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "Revised",
+          "evidence": "Organic materials are flexible and robust with low weight and low thermal conductivity (0.1- 0.8W m-1 K-1).14 Therefore, organic TE materials have been identi- fied as an alternative to find complementary applications...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "s13233-020-8116-y",
+          "evidence": "DOI 10.1007/s13233-020-8116-y www.springer.com/13233 pISSN 1598-5032 eISSN 2092-7673 Macromolecular Research Review Macromol.",
+          "pattern": "polymer/dopant_or_treatment"
+        }
+      ],
+      "doping_method": [],
+      "film_preparation": [
+        {
+          "value": "printed film",
+          "evidence": "Conversely, organic materials offer more cost-effective high-throughput fabrication using solution-based printing techniques with the additional advantages such as facile tunability of molecular struc- tures to tailor..."
+        }
+      ],
+      "solvent": []
+    },
+    {
+      "page": 2,
+      "dopant": [
+        {
+          "value": "5",
+          "evidence": "They thus measured σ of 1061 S cm-1 and α of 38.4μV K-1 at the maximum PF of 157.4 μW m-1 K-2, when PEDOT:PSS was doped with 5% DMSO and 0.3% PEO.23 Ouyang et al. reported the sequential treatment of the PEDOT:PSS fil...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "a",
+          "evidence": "The maximum PF of 334 μW m-1 K-2 with σ of 2170 S cm-1 and α of 39.2 μV K-1, were obtained by carefully adjusting the treatment with acid and base at room temperature.24 In 2018, Ouyang and coworkers also reported pos...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "EMIM-DCA",
+          "evidence": "Using EMIM-DCA, they achieved the maximum PF of 754 μW m-1 K-2 and ZT of 0.75.",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "and",
+          "evidence": "In this review, we discuss recent out- comes in the field of p- and n-type organic thermoelectric mate- rials, developments of dopants and doping methods, modelling of charge transport in organic TE materials and flex...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "poly(styrene",
+          "evidence": "Organic Thermoelectric Materials 2.1. p-Type Thermoelectric Materials An extensively studied p-type TE material is poly(3,4-ethylene- dioxythiophene):poly(styrene sulfonate) (PEDOT:PSS).",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "PSS",
+          "evidence": "Organic Thermoelectric Materials 2.1. p-Type Thermoelectric Materials An extensively studied p-type TE material is poly(3,4-ethylene- dioxythiophene):poly(styrene sulfonate) (PEDOT:PSS).",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "Tos",
+          "evidence": "Crispin et al. added PEDOT:Tos to the reducing agent, tetrakis(dimethylamino)ethylene (TDAE),",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "EMIM-BF4",
+          "evidence": "They obtained a maximum PF of 23.5 μW m-1 K-2 with σ in the range of 0.3-300 S cm-1 and α in the range of 20-400 μV K-1 when the doping level was lowered from 33% to 14.5%.19 In 2013, Luo et al. reported the effects o...",
+          "pattern": "dopant hint list"
+        },
+        {
+          "value": "EMIM-TFSI",
+          "evidence": "The maximum PF of 334 μW m-1 K-2 with σ of 2170 S cm-1 and α of 39.2 μV K-1, were obtained by carefully adjusting the treatment with acid and base at room temperature.24 In 2018, Ouyang and coworkers also reported pos...",
+          "pattern": "dopant hint list"
+        },
+        {
+          "value": "H2SO4",
+          "evidence": "They thus measured σ of 1061 S cm-1 and α of 38.4μV K-1 at the maximum PF of 157.4 μW m-1 K-2, when PEDOT:PSS was doped with 5% DMSO and 0.3% PEO.23 Ouyang et al. reported the sequential treatment of the PEDOT:PSS fil...",
+          "pattern": "dopant hint list"
+        },
+        {
+          "value": "hydrazine",
+          "evidence": "Their approach increased both σ and α, and suppressed the thermal conductivity from 0.30 to 0.22 W m-1 K-1 in the DMSO-mixed PEDOT:PSS and from 0.32 to 0.23 W m-1 K-1 in EG-mixed PEDOT:PSS.21 Similarly, Kim et al. rep...",
+          "pattern": "dopant hint list"
+        },
+        {
+          "value": "NaOH",
+          "evidence": "They thus measured σ of 1061 S cm-1 and α of 38.4μV K-1 at the maximum PF of 157.4 μW m-1 K-2, when PEDOT:PSS was doped with 5% DMSO and 0.3% PEO.23 Ouyang et al. reported the sequential treatment of the PEDOT:PSS fil...",
+          "pattern": "dopant hint list"
+        },
+        {
+          "value": "PEO",
+          "evidence": "By controlling the concentration of hydrazine (0.0175 wt%), the film exhibited the maximum PF of 112 μW m-1 K-2 with σ of 578 S cm-1 and α of 67 μV K-1.22 Furthermore, Gong et al. reported a post-treatment method usin...",
+          "pattern": "dopant hint list"
+        },
+        {
+          "value": "PF6",
+          "evidence": "The TE performance is also compet- itive against highly functioning inorganic TE materials such as bismuth telluride.16 In addition to various post treatments of PEDOT:PSS films, different counterions to replace PSS, ...",
+          "pattern": "dopant hint list"
+        },
+        {
+          "value": "TDAE",
+          "evidence": "Crispin et al. added PEDOT:Tos to the reducing agent, tetrakis(dimethylamino)ethylene (TDAE),",
+          "pattern": "dopant hint list"
+        },
+        {
+          "value": "TFSI",
+          "evidence": "The TE performance is also compet- itive against highly functioning inorganic TE materials such as bismuth telluride.16 In addition to various post treatments of PEDOT:PSS films, different counterions to replace PSS, ...",
+          "pattern": "dopant hint list"
+        }
+      ],
+      "doping_method": [
+        {
+          "value": "electrochemical dedoping",
+          "evidence": "Crispin et al. tried to control the oxidation level of PEDOT:PSS by fabricating electrochemical transistors."
+        },
+        {
+          "value": "spin coating",
+          "evidence": "They obtained a maximum PF of 23.5 μW m-1 K-2 with σ in the range of 0.3-300 S cm-1 and α in the range of 20-400 μV K-1 when the doping level was lowered from 33% to 14.5%.19 In 2013, Luo et al. reported the effects o..."
+        },
+        {
+          "value": "post treatment",
+          "evidence": "They obtained a maximum PF of 23.5 μW m-1 K-2 with σ in the range of 0.3-300 S cm-1 and α in the range of 20-400 μV K-1 when the doping level was lowered from 33% to 14.5%.19 In 2013, Luo et al. reported the effects o..."
+        },
+        {
+          "value": "immersion doping",
+          "evidence": "In addition, post-treatment with EMIMBF4 induced an intercon- nected network of short and circular PEDOT grains with increased polaron density, resulting in further improvement in α to max- imize the PF (38.46 μW m-1 ..."
+        },
+        {
+          "value": "acid base treatment",
+          "evidence": "They thus measured σ of 1061 S cm-1 and α of 38.4μV K-1 at the maximum PF of 157.4 μW m-1 K-2, when PEDOT:PSS was doped with 5% DMSO and 0.3% PEO.23 Ouyang et al. reported the sequential treatment of the PEDOT:PSS fil..."
+        }
+      ],
+      "film_preparation": [
+        {
+          "value": "spin coated film",
+          "evidence": "They obtained a maximum PF of 23.5 μW m-1 K-2 with σ in the range of 0.3-300 S cm-1 and α in the range of 20-400 μV K-1 when the doping level was lowered from 33% to 14.5%.19 In 2013, Luo et al. reported the effects o..."
+        },
+        {
+          "value": "solution cast film",
+          "evidence": "They obtained a maximum PF of 23.5 μW m-1 K-2 with σ in the range of 0.3-300 S cm-1 and α in the range of 20-400 μV K-1 when the doping level was lowered from 33% to 14.5%.19 In 2013, Luo et al. reported the effects o..."
+        },
+        {
+          "value": "soaked / immersion coated",
+          "evidence": "In addition, post-treatment with EMIMBF4 induced an intercon- nected network of short and circular PEDOT grains with increased polaron density, resulting in further improvement in α to max- imize the PF (38.46 μW m-1 ..."
+        }
+      ],
+      "solvent": [
+        {
+          "value": "dimethyl sulfoxide",
+          "evidence": "Excess PSS, which acts as an insulator in PEDOT:PSS films, limits charge carrier transport, resulting in the σ of 0.012-17 S cm-1 and PF of 0.0016- 0.9 μW m-1 K-2.18 Various studies have attempted to optimize the elec..."
+        },
+        {
+          "value": "DMSO",
+          "evidence": "Excess PSS, which acts as an insulator in PEDOT:PSS films, limits charge carrier transport, resulting in the σ of 0.012-17 S cm-1 and PF of 0.0016- 0.9 μW m-1 K-2.18 Various studies have attempted to optimize the elec..."
+        },
+        {
+          "value": "DMSO + the ionic liquid (IL)",
+          "evidence": "They obtained a maximum PF of 23.5 μW m-1 K-2 with σ in the range of 0.3-300 S cm-1 and α in the range of 20-400 μV K-1 when the doping level was lowered from 33% to 14.5%.19 In 2013, Luo et al. reported the effects o..."
+        },
+        {
+          "value": "ethylene glycol",
+          "evidence": "In addition, post-treatment with EMIMBF4 induced an intercon- nected network of short and circular PEDOT grains with increased polaron density, resulting in further improvement in α to max- imize the PF (38.46 μW m-1 ..."
+        },
+        {
+          "value": "EG",
+          "evidence": "In addition, post-treatment with EMIMBF4 induced an intercon- nected network of short and circular PEDOT grains with increased polaron density, resulting in further improvement in α to max- imize the PF (38.46 μW m-1 ..."
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "dopant": [
+        {
+          "value": "2",
+          "evidence": "Moreover, they postulated that the disordered region may have led to strongly perturbed DOS, thus, enhancing α.30 Later, Chabinyc and coworkers investigated the TE characteristics of PBTTT-C14 by doping with 2,3,5,6-t...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "a",
+          "evidence": "Several highly performing TE polymers have been designed based on the poly(2,5-bis(3-alkylthiophen-2-yl)thieno[3,2-b]thio- phene) (PBTTT) structure, with a highly ordered morphology in film owing to its liquid crystal...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "EBSA",
+          "evidence": "Even though the value of σ that was achieved by using EBSA (1300 S cm-1) via solution doping was higher than that of FTS (1000 S cm-1) via vapor doping, the vapor-doped PBTTT-C14:FTS film had a maximum PF of 110 μW m-...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "F2TCNQ",
+          "evidence": "Therefore, the vapor-doped PBTTT-C14 with F4TCNQ exhibited the maxi- mum PF of 120 μW m-1 K-2 with of 670 S cm-1 and of 42 μV K-1 whereas doping with F2TCNQ yielded maximum PF of 70 μW m-1 K-2.31 Another widely studie...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "Fe(III)",
+          "evidence": "Several highly performing TE polymers have been designed based on the poly(2,5-bis(3-alkylthiophen-2-yl)thieno[3,2-b]thio- phene) (PBTTT) structure, with a highly ordered morphology in film owing to its liquid crystal...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "FeCl3",
+          "evidence": "This method improved the intermo- lecular chain packing, yielding high σ (254 S cm-1) and a maxi- mum PF of 35 μW m-1 K-2.33 In 2017, Cho et al. compared the TE properties of P3HT and a diketopyrrolopyrrole (DPP)-base...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "resonance",
+          "evidence": "In the vapor-doped polymer films with F4TCNQ, an elongated orientation correlation length (OCL) was observed using resonance soft X-ray scattering (RSoXS).",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "4-ethyl-benzenesulfonic",
+          "evidence": "Several highly performing TE polymers have been designed based on the poly(2,5-bis(3-alkylthiophen-2-yl)thieno[3,2-b]thio- phene) (PBTTT) structure, with a highly ordered morphology in film owing to its liquid crystal...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "yielded",
+          "evidence": "Several highly performing TE polymers have been designed based on the poly(2,5-bis(3-alkylthiophen-2-yl)thieno[3,2-b]thio- phene) (PBTTT) structure, with a highly ordered morphology in film owing to its liquid crystal...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "FTS",
+          "evidence": "Even though the value of σ that was achieved by using EBSA (1300 S cm-1) via solution doping was higher than that of FTS (1000 S cm-1) via vapor doping, the vapor-doped PBTTT-C14:FTS film had a maximum PF of 110 μW m-...",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "prepared",
+          "evidence": "At the optimal oxidation level of 22%, a maximum PF of 324 µW m-1 K-2 was achieved, resulting in a ZT of 0.25 at room temperature.26 Kim et al. introduced PP- PEDOT:Tos (PP-PEDOT: prepared from a mixture of pyridine a...",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "PSS",
+          "evidence": "The optimized films exhibited σ of 117 S cm-1 and α of 930 µV K-1, leading to an unprecedented maximum PF of 1270 µW m-1 K-2 with a high ZT value of 1.02.17 Furthermore, Crispin et al. demon- strated a PEDOT transitio...",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "Tos",
+          "evidence": "At the optimal oxidation level of 22%, a maximum PF of 324 µW m-1 K-2 was achieved, resulting in a ZT of 0.25 at room temperature.26 Kim et al. introduced PP- PEDOT:Tos (PP-PEDOT: prepared from a mixture of pyridine a...",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "F4TCNQ",
+          "evidence": "Moreover, they postulated that the disordered region may have led to strongly perturbed DOS, thus, enhancing α.30 Later, Chabinyc and coworkers investigated the TE characteristics of PBTTT-C14 by doping with 2,3,5,6-t...",
+          "pattern": "dopant hint list"
+        },
+        {
+          "value": "Fe(TFSI)3",
+          "evidence": "Several highly performing TE polymers have been designed based on the poly(2,5-bis(3-alkylthiophen-2-yl)thieno[3,2-b]thio- phene) (PBTTT) structure, with a highly ordered morphology in film owing to its liquid crystal...",
+          "pattern": "dopant hint list"
+        },
+        {
+          "value": "NOPF6",
+          "evidence": "Several highly performing TE polymers have been designed based on the poly(2,5-bis(3-alkylthiophen-2-yl)thieno[3,2-b]thio- phene) (PBTTT) structure, with a highly ordered morphology in film owing to its liquid crystal...",
+          "pattern": "dopant hint list"
+        },
+        {
+          "value": "TDAE",
+          "evidence": "TDAE formed a salt with the Tos anions by supplying electrons to oxidized PEDOTs.",
+          "pattern": "dopant hint list"
+        },
+        {
+          "value": "TFSI",
+          "evidence": "For example, Zhu et al. reported that P3HT film doped with Fe(III) (TFSI)3 achieved a maximum PF of 26 μW m-1 K-2 at temperatures between 300 and 340 K, which was attributed to its high carrier concen- tration (1.62 ×...",
+          "pattern": "dopant hint list"
+        }
+      ],
+      "doping_method": [
+        {
+          "value": "immersion doping",
+          "evidence": "Several highly performing TE polymers have been designed based on the poly(2,5-bis(3-alkylthiophen-2-yl)thieno[3,2-b]thio- phene) (PBTTT) structure, with a highly ordered morphology in film owing to its liquid crystal..."
+        },
+        {
+          "value": "vapor doping",
+          "evidence": "Even though the value of σ that was achieved by using EBSA (1300 S cm-1) via solution doping was higher than that of FTS (1000 S cm-1) via vapor doping, the vapor-doped PBTTT-C14:FTS film had a maximum PF of 110 μW m-..."
+        },
+        {
+          "value": "wire bar coating",
+          "evidence": "For example, Zhu et al. reported that P3HT film doped with Fe(III) (TFSI)3 achieved a maximum PF of 26 μW m-1 K-2 at temperatures between 300 and 340 K, which was attributed to its high carrier concen- tration (1.62 ×..."
+        },
+        {
+          "value": "sequential doping",
+          "evidence": "This method improved the intermo- lecular chain packing, yielding high σ (254 S cm-1) and a maxi- mum PF of 35 μW m-1 K-2.33 In 2017, Cho et al. compared the TE properties of P3HT and a diketopyrrolopyrrole (DPP)-base..."
+        },
+        {
+          "value": "drop casting",
+          "evidence": "This method improved the intermo- lecular chain packing, yielding high σ (254 S cm-1) and a maxi- mum PF of 35 μW m-1 K-2.33 In 2017, Cho et al. compared the TE properties of P3HT and a diketopyrrolopyrrole (DPP)-base..."
+        }
+      ],
+      "film_preparation": [
+        {
+          "value": "soaked / immersion coated",
+          "evidence": "Several highly performing TE polymers have been designed based on the poly(2,5-bis(3-alkylthiophen-2-yl)thieno[3,2-b]thio- phene) (PBTTT) structure, with a highly ordered morphology in film owing to its liquid crystal..."
+        },
+        {
+          "value": "wire bar coated film",
+          "evidence": "For example, Zhu et al. reported that P3HT film doped with Fe(III) (TFSI)3 achieved a maximum PF of 26 μW m-1 K-2 at temperatures between 300 and 340 K, which was attributed to its high carrier concen- tration (1.62 ×..."
+        },
+        {
+          "value": "drop cast film",
+          "evidence": "This method improved the intermo- lecular chain packing, yielding high σ (254 S cm-1) and a maxi- mum PF of 35 μW m-1 K-2.33 In 2017, Cho et al. compared the TE properties of P3HT and a diketopyrrolopyrrole (DPP)-base..."
+        }
+      ],
+      "solvent": [
+        {
+          "value": "water",
+          "evidence": "The salt was further removed by rinsing the films with water."
+        },
+        {
+          "value": "ethylene glycol",
+          "evidence": "At the optimal oxidation level of 22%, a maximum PF of 324 µW m-1 K-2 was achieved, resulting in a ZT of 0.25 at room temperature.26 Kim et al. introduced PP- PEDOT:Tos (PP-PEDOT: prepared from a mixture of pyridine a..."
+        },
+        {
+          "value": "pyridine + triblock copolymer",
+          "evidence": "At the optimal oxidation level of 22%, a maximum PF of 324 µW m-1 K-2 was achieved, resulting in a ZT of 0.25 at room temperature.26 Kim et al. introduced PP- PEDOT:Tos (PP-PEDOT: prepared from a mixture of pyridine a..."
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "dopant": [
+        {
+          "value": "FeCl3",
+          "evidence": "Res., 28(6), 531-552 (2020) Macromolecular Research tuted DPP derivative (PDPPSe-12) using FeCl3 as dopant.",
+          "pattern": "X as dopant"
+        },
+        {
+          "value": "a",
+          "evidence": "Despite the amorphous and face-on oriented morphology, a maximum σ of 102.1 S cm-1 was obtained for pBBTa26-TT by sequential doping with a solution of F4TCNQ.",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "F4TCNQ",
+          "evidence": "The HOMO levels they obtained for both molecules were appropriate such that doping with F4TCNQ induced efficient charge transfer.",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "the",
+          "evidence": "Kiriy et al. modified the side-chains by extending the branching point (6-octyldodecyl) to synthesize PDPP(6-OD)2TT with the aim of improving the solubility and crystallinity of the film and studied its TE performance...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "concentrations",
+          "evidence": "The hole mobility μ of PDPPSe-12 increased to 1.87 cm2 V-1 s-1 at [FeCl3] = 5 mM and was maintained at 1.10 cm2 V-1 s-1 even when the dop- ant concentration was [FeCl3] = 15 mM compared to PDPPS-12 at the same dopant ...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "contents",
+          "evidence": "Moreover, the long side-chains of these molecules were responsible for retaining their good solubilities even at high dopant contents (up to 38 mol%).",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "films",
+          "evidence": "This permitted the preparation of uniform polymer:dopant films for which maximum PF of 31.5 μW m-1 K-2 and 21.8 μW m-1 K-2 was eventually obtained for PCDTFBT and PCDTPT, respectively.42 Additionally, side-chain engin...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "resulted",
+          "evidence": "The use of sequential solution doping using FeCl3 as p-dopant resulted in the maximum being determined to be 287 S cm-1 and 313.9 S cm-1 for pBBT-2T-TT and pBBT-2T-2T, respectively.",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "were",
+          "evidence": "The introduction of the Se atom induced efficient intermolecular pack- ing via Se-Se chalcogen interactions and the enhanced intermo- lecular packing increased σ while sustaining its morphology after the dopants were ...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "bipolarons",
+          "evidence": "The strong quinoid character of the BBT polymers allowed effi- cient intramolecular delocalization of the polarons/bipolarons and intermolecular long-range ordering.",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "dopant",
+          "evidence": "This permitted the preparation of uniform polymer:dopant films for which maximum PF of 31.5 μW m-1 K-2 and 21.8 μW m-1 K-2 was eventually obtained for PCDTFBT and PCDTPT, respectively.42 Additionally, side-chain engin...",
+          "pattern": "polymer:counterion_or_dopant"
+        }
+      ],
+      "doping_method": [
+        {
+          "value": "sequential doping",
+          "evidence": "Despite the amorphous and face-on oriented morphology, a maximum σ of 102.1 S cm-1 was obtained for pBBTa26-TT by sequential doping with a solution of F4TCNQ."
+        }
+      ],
+      "film_preparation": [],
+      "solvent": []
+    },
+    {
+      "page": 5,
+      "dopant": [
+        {
+          "value": "9",
+          "evidence": "Moreover, when the polymer was doped with 9 mol% of B(C6F5)3, it exhibited the maximum σ (7.47 S cm-1), which was about one order of mag- nitude higher than that of PCPDTBT (0.65 S cm-1) with normal ethylhexyl side-ch...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "CN6-CP",
+          "evidence": "This difference was attributed to more effective doping with CN6-CP compared to F4TCNQ as the LUMO (-5.87 eV) level of CN6-CP is positioned below the HOMO level of PDPP(6-DO)2TT (-5.5 eV), offering a feasible charge t...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "blends",
+          "evidence": "This improved the com- patibility of the polymer and dopant, promoting coprocessing and morphologically stable polymer:dopant blends.",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "i.e",
+          "evidence": "The elec- tron-donating tetraethylene glycol side-chains of the p(g42T-T) polymer decreased the ionization energy, thus making it possible to use even weaker dopants, i.e., 3-dichloro-5,6-dicyano-1,4-benzo- quinone (D...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "promoting",
+          "evidence": "This improved the com- patibility of the polymer and dopant, promoting coprocessing and morphologically stable polymer:dopant blends.",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "dopant",
+          "evidence": "This improved the com- patibility of the polymer and dopant, promoting coprocessing and morphologically stable polymer:dopant blends.",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "F4TCNQ",
+          "evidence": "In this report, the maximum conductivity of the PDPP(6-DO)2TT:F4TCNQ ﬁlms was 10-2 S cm-1 whereas that of the PDPP(6-DO)2TT:CN6-CP films was superior (70 S cm-1).",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "B(C6F5)3",
+          "evidence": "Moreover, when the polymer was doped with 9 mol% of B(C6F5)3, it exhibited the maximum σ (7.47 S cm-1), which was about one order of mag- nitude higher than that of PCPDTBT (0.65 S cm-1) with normal ethylhexyl side-ch...",
+          "pattern": "dopant hint list"
+        },
+        {
+          "value": "DDQ",
+          "evidence": "The elec- tron-donating tetraethylene glycol side-chains of the p(g42T-T) polymer decreased the ionization energy, thus making it possible to use even weaker dopants, i.e., 3-dichloro-5,6-dicyano-1,4-benzo- quinone (D...",
+          "pattern": "dopant hint list"
+        }
+      ],
+      "doping_method": [],
+      "film_preparation": [],
+      "solvent": []
+    },
+    {
+      "page": 6,
+      "dopant": [
+        {
+          "value": "and",
+          "evidence": "Res., 28(6), 531-552 (2020) Macromolecular Research ants have been performed during the last few decades, investi- gations of their n-type counterparts lag far behind owing to their instability toward oxidation, poor ...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "have",
+          "evidence": "The σ of p-type materials has already exceeded 1000 S cm-1.21,26 In contrast, the value of σ of most n-type materials has remained relatively low and few structures are known to have achieved σ over 1 S cm-1 after dop...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "should",
+          "evidence": "A prerequisite for effective n-doping is that the HOMO level of dopants should be higher than the LUMO level of n-type mol- Table 1.",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "A",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "B(C6H5)",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "CN6-CP",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "DMSO",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "Dopant",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "EBSA",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "EMIM-DCA",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "F2TCNQ",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "F4TCNQ",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "FeCl3",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "FTS",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "Gav",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "HZ",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "NaOH",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "Nap",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "OTS",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "PSS",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "PSS/EMIM-DCA",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "TDAE",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "TFSI",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "Tos",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "Tos/TDAE",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "B(C6H5)3",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "dopant hint list"
+        },
+        {
+          "value": "EMIM-BF4",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "dopant hint list"
+        },
+        {
+          "value": "H2SO4",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "dopant hint list"
+        },
+        {
+          "value": "PEO",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (...",
+          "pattern": "dopant hint list"
+        }
+      ],
+      "doping_method": [
+        {
+          "value": "solution mixed doping",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+        },
+        {
+          "value": "vapor doping",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+        },
+        {
+          "value": "immersion doping",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+        },
+        {
+          "value": "drop casting",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+        },
+        {
+          "value": "wire bar coating",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+        },
+        {
+          "value": "electrochemical dedoping",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+        },
+        {
+          "value": "post treatment",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+        },
+        {
+          "value": "acid base treatment",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+        }
+      ],
+      "film_preparation": [
+        {
+          "value": "drop cast film",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+        },
+        {
+          "value": "wire bar coated film",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+        },
+        {
+          "value": "soaked / immersion coated",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+        }
+      ],
+      "solvent": [
+        {
+          "value": "DMSO",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+        },
+        {
+          "value": "EG",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "dopant": [
+        {
+          "value": "A",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Q-DCM-DPPTT/N-DMBI 0.11 (0.24a) -383 (-420a) 1.7 (4.2a) Solution mixing 15 A-D...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "Dopant",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Q-DCM-DPPTT/N-DMBI 0.11 (0.24a) -383 (-420a) 1.7 (4.2a) Solution mixing 15 A-D...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "N-DMBI",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Q-DCM-DPPTT/N-DMBI 0.11 (0.24a) -383 (-420a) 1.7 (4.2a) Solution mixing 15 A-D...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "TBAF",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Q-DCM-DPPTT/N-DMBI 0.11 (0.24a) -383 (-420a) 1.7 (4.2a) Solution mixing 15 A-D...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "TDAE",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Q-DCM-DPPTT/N-DMBI 0.11 (0.24a) -383 (-420a) 1.7 (4.2a) Solution mixing 15 A-D...",
+          "pattern": "polymer/dopant_or_treatment"
+        }
+      ],
+      "doping_method": [
+        {
+          "value": "solution mixed doping",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Q-DCM-DPPTT/N-DMBI 0.11 (0.24a) -383 (-420a) 1.7 (4.2a) Solution mixing 15 A-D..."
+        },
+        {
+          "value": "vapor doping",
+          "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Q-DCM-DPPTT/N-DMBI 0.11 (0.24a) -383 (-420a) 1.7 (4.2a) Solution mixing 15 A-D..."
+        }
+      ],
+      "film_preparation": [],
+      "solvent": []
+    },
+    {
+      "page": 8,
+      "dopant": [
+        {
+          "value": "N-DMBI",
+          "evidence": "To improve the miscibility of dopants in polymer matrices and the resulting doping efficiency, Koster et al. introduced polar triethylene glycol (TEG)-based side-chains instead of nonpolar alkyl chains and synthesized...",
+          "pattern": "X as dopant"
+        },
+        {
+          "value": "9",
+          "evidence": "This discovery focused the attention on NDI-based D-A type TE materials and these structures became one of the most extensively studied n-type TE materials.49 Subsequent work by Chabinyc et al. led them to report the ...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "atomic",
+          "evidence": "Based on morphological analyses using atomic force microscopy (AFM) and GIWAXS, they observed no significant morphological changes when compared to pristine films.",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "the",
+          "evidence": "Using the maximum carrier concentration value, they estimated the doping efficiency of ~1%, indicating that the formation of aggregates on the surface was caused by poor miscibility of the dopant and polymer.",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "and",
+          "evidence": "Using the maximum carrier concentration value, they estimated the doping efficiency of ~1%, indicating that the formation of aggregates on the surface was caused by poor miscibility of the dopant and polymer.",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "com-",
+          "evidence": "AFM analysis showed that the film morphology had improved substantially, suggesting that the introduction of polar TEG chains improved the miscibility with polar dopants com- pared to the doped N2200 film.",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "concentration",
+          "evidence": "After doping with N-DMBI, A-DCV-DPPTT films underwent no obvious changes in their morphology even at a dopant concentration of approximately 10 wt%.",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "in",
+          "evidence": "To improve the miscibility of dopants in polymer matrices and the resulting doping efficiency, Koster et al. introduced polar triethylene glycol (TEG)-based side-chains instead of nonpolar alkyl chains and synthesized...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "started",
+          "evidence": "In the case of the Q-DCM-DPP films, the dopants started to aggregate on the film as the dopant concentration was increased (5 wt% N-DMBI).",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "TDAE",
+          "evidence": "After doping with the vapor dopant TDAE, the maximum σ of BBL increased from ~10-3 to 1.7 S cm-1 and the maximum PF was determined to be 0.43 μW m-1 K-2, emphasizing that the chain rigidity and planarity of these ladd...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "thermoelec-",
+          "evidence": "The max- imum PF values were measured to be 2.3 × 10-4 and 4.5 μW m-1 K-2 for P(NDI2TEG-2T) and P(NDI2TEG-2Tz), respectively.54 The result emphasized the importance of chain planarity for efficient charge carrier tran...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "Pei",
+          "evidence": "Recently, Pei et al. reported a series of promising n-type TE polymers based on different conjugated backbones.",
+          "pattern": "dopant hint list"
+        }
+      ],
+      "doping_method": [],
+      "film_preparation": [],
+      "solvent": []
+    },
+    {
+      "page": 9,
+      "dopant": [
+        {
+          "value": "25",
+          "evidence": "Doping with 25 mol% TBAF enabled them to achieve the maximum σ of 0.62 S cm-1 and PF of 0.63 μW m-1 K-2 in air.",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "GIWAXS",
+          "evidence": "Morphological study using GIWAXS showed that both PDPH and PDPF had strong edge-on orientation.",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "N-DMBI",
+          "evidence": "The equivalent polymer with chlorine substituents, ClBDPPV, was also prepared, enabling researchers to explore the TE properties and the effects of the halogen atoms on the TE properties of BDPPV polymers.59 FBDPPV do...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "tetrabutylammonium",
+          "evidence": "In 2017, Katz et al. also reported that ClB- DPPV doped with tetrabutylammonium fluoride (TBAF) was stable under ambient conditions.",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "concentration",
+          "evidence": "As the dopant concentration increased, the film morphology of PDPH was dis- turbed and N-DMBI aggregates appeared.",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "counterion",
+          "evidence": "In 2019, a new n-dopant (N- DMBI)2, which is a dimeric structure of N-DMBI, was designed and synthesized by considering the high reduction ability (sim- ilar to that of the dimeric metal dopant (RuCp*mes)2) and size o...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "counterions",
+          "evidence": "The researchers claimed that not only the dop- ing mechanism but also the shape (or size) of dopant counterions strongly influenced the TE and charge transport properties.",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "F4TCNQ",
+          "evidence": "As an example of p-doping, Muller et al. explored the coprocess- ing of p(g42T-T) and the dopant F4TCNQ in a 1:1 mixture of ace- tonitrile and chloroform to dope the polymer.44 Upon doping, the increased carrier densi...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "have",
+          "evidence": "Molecular Doping Molecular doping is a powerful technique to tune the σ of organic materials as the doping process introduces additional charge carriers (i.e., polarons and bipolarons) into the molecu- lar backbone vi...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "in",
+          "evidence": "The low crystallinity of the BDPPV derivatives was also considered to allow improved dispersion of the dopants in the polymer films to increase the doping efficiency.",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "is",
+          "evidence": "In par- ticular, p-doping requires the HOMO level of a polymer (known as an electron-rich p-type polymer) to be close to or higher than the LUMO level of the dopant to enable positive polarons (and/or bipolarons) to b...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "of",
+          "evidence": "In 2019, a new n-dopant (N- DMBI)2, which is a dimeric structure of N-DMBI, was designed and synthesized by considering the high reduction ability (sim- ilar to that of the dimeric metal dopant (RuCp*mes)2) and size o...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "on",
+          "evidence": "In 2019, a new n-dopant (N- DMBI)2, which is a dimeric structure of N-DMBI, was designed and synthesized by considering the high reduction ability (sim- ilar to that of the dimeric metal dopant (RuCp*mes)2) and size o...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "respectively",
+          "evidence": "The PF values were deter- mined to be approximately 7, 5, and 1 μW m-1 K-2 with (N-DMBI)2, N-DMBI, and (RuCp*mes)2 as dopants, respectively.",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "to",
+          "evidence": "In par- ticular, p-doping requires the HOMO level of a polymer (known as an electron-rich p-type polymer) to be close to or higher than the LUMO level of the dopant to enable positive polarons (and/or bipolarons) to b...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "were",
+          "evidence": "Further, the small changes in the crystallinity of both polymers (LPPV-1 and LPPV-2) upon doping with N-DMBI indicated that the dopants were well mixed in the amorphous regions.",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "yielded",
+          "evidence": "Even though N-DMBI and (N-DMBI)2 dopants yielded sim- ilar σ, 43 mol% of N-DMBI was used whereas only 10.7 mol% of (N-DMBI)2 was used to reach the maximum σ, indicating the higher doping efficiency of (N-DMBI)2.",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "or",
+          "evidence": "In par- ticular, p-doping requires the HOMO level of a polymer (known as an electron-rich p-type polymer) to be close to or higher than the LUMO level of the dopant to enable positive polarons (and/or bipolarons) to b...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "Pei",
+          "evidence": "In 2019, a new n-dopant (N- DMBI)2, which is a dimeric structure of N-DMBI, was designed and synthesized by considering the high reduction ability (sim- ilar to that of the dimeric metal dopant (RuCp*mes)2) and size o...",
+          "pattern": "dopant hint list"
+        },
+        {
+          "value": "TBAF",
+          "evidence": "In 2017, Katz et al. also reported that ClB- DPPV doped with tetrabutylammonium fluoride (TBAF) was stable under ambient conditions.",
+          "pattern": "dopant hint list"
+        }
+      ],
+      "doping_method": [],
+      "film_preparation": [],
+      "solvent": [
+        {
+          "value": "chloroform",
+          "evidence": "As an example of p-doping, Muller et al. explored the coprocess- ing of p(g42T-T) and the dopant F4TCNQ in a 1:1 mixture of ace- tonitrile and chloroform to dope the polymer.44 Upon doping, the increased carrier densi..."
+        },
+        {
+          "value": "ace- tonitrile + chloroform to dope the polymer",
+          "evidence": "As an example of p-doping, Muller et al. explored the coprocess- ing of p(g42T-T) and the dopant F4TCNQ in a 1:1 mixture of ace- tonitrile and chloroform to dope the polymer.44 Upon doping, the increased carrier densi..."
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "dopant": [
+        {
+          "value": "high",
+          "evidence": "Charge transfer between the polymer and dopant forms a charge transfer (CT) complex and the fact that the solubility of the charged species differs from that of the neutral polymers (and dopants), causes them to readi...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "concentration",
+          "evidence": "The neutral F4TCNQ absorption at 390 nm also increased as the dopant concentration increased.",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "concentrations",
+          "evidence": "Charge transfer between the polymer and dopant forms a charge transfer (CT) complex and the fact that the solubility of the charged species differs from that of the neutral polymers (and dopants), causes them to readi...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "forms",
+          "evidence": "Charge transfer between the polymer and dopant forms a charge transfer (CT) complex and the fact that the solubility of the charged species differs from that of the neutral polymers (and dopants), causes them to readi...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "in",
+          "evidence": "The method according to which a dopant is introduced into a polymer plays a critical role in determining the doping efficacy by charge transfer. “Solution-mixed doping” in which the doped polymer film is fabricated by...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "is",
+          "evidence": "The method according to which a dopant is introduced into a polymer plays a critical role in determining the doping efficacy by charge transfer. “Solution-mixed doping” in which the doped polymer film is fabricated by...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "N-DMBI",
+          "evidence": "As an example, the most widely used n-type dopant, N-DMBI, can dope polymers via hydrogen atom transfer followed by the creation of an electron transfer pathway (Figure 4).",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "the",
+          "evidence": "After casting the films of a mixture of the polymer and dopant, the films are heated to form N-DMBI neu- tral radicals.",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "transfer",
+          "evidence": "In the case of n-doping, the dopants transfer electrons to the LUMO of electron-deficient n- type polymers, generating negative polarons (and/or bipolar- ons) along the polymer backbone.",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "which",
+          "evidence": "Charge transfer between the polymer and dopant forms a charge transfer (CT) complex and the fact that the solubility of the charged species differs from that of the neutral polymers (and dopants), causes them to readi...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "or",
+          "evidence": "In the case of n-doping, the dopants transfer electrons to the LUMO of electron-deficient n- type polymers, generating negative polarons (and/or bipolar- ons) along the polymer backbone.",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "F4TCNQ",
+          "evidence": "Res., 28(6), 531-552 (2020) Macromolecular Research that of the polarons in the polymer backbone above 700 nm were gradually enhanced with increasing [F4TCNQ] = 0-20 mol%.",
+          "pattern": "dopant hint list"
+        }
+      ],
+      "doping_method": [
+        {
+          "value": "solution mixed doping",
+          "evidence": "The method according to which a dopant is introduced into a polymer plays a critical role in determining the doping efficacy by charge transfer. “Solution-mixed doping” in which the doped polymer film is fabricated by..."
+        },
+        {
+          "value": "sequential doping",
+          "evidence": "Charge transfer between the polymer and dopant forms a charge transfer (CT) complex and the fact that the solubility of the charged species differs from that of the neutral polymers (and dopants), causes them to readi..."
+        },
+        {
+          "value": "vapor doping",
+          "evidence": "Exposure of the pre-casted films to dopants is often accomplished by immersion, solution casting (drop casting or spin coating), and vapor doping."
+        },
+        {
+          "value": "immersion doping",
+          "evidence": "Exposure of the pre-casted films to dopants is often accomplished by immersion, solution casting (drop casting or spin coating), and vapor doping."
+        },
+        {
+          "value": "drop casting",
+          "evidence": "Exposure of the pre-casted films to dopants is often accomplished by immersion, solution casting (drop casting or spin coating), and vapor doping."
+        },
+        {
+          "value": "spin coating",
+          "evidence": "Exposure of the pre-casted films to dopants is often accomplished by immersion, solution casting (drop casting or spin coating), and vapor doping."
+        }
+      ],
+      "film_preparation": [
+        {
+          "value": "solution cast film",
+          "evidence": "After casting the films of a mixture of the polymer and dopant, the films are heated to form N-DMBI neu- tral radicals."
+        },
+        {
+          "value": "drop cast film",
+          "evidence": "Exposure of the pre-casted films to dopants is often accomplished by immersion, solution casting (drop casting or spin coating), and vapor doping."
+        },
+        {
+          "value": "soaked / immersion coated",
+          "evidence": "Exposure of the pre-casted films to dopants is often accomplished by immersion, solution casting (drop casting or spin coating), and vapor doping."
+        }
+      ],
+      "solvent": [
+        {
+          "value": "the polymer + dopant",
+          "evidence": "After casting the films of a mixture of the polymer and dopant, the films are heated to form N-DMBI neu- tral radicals."
+        },
+        {
+          "value": "the polymer + the dopant in the desired ratio",
+          "evidence": "The method according to which a dopant is introduced into a polymer plays a critical role in determining the doping efficacy by charge transfer. “Solution-mixed doping” in which the doped polymer film is fabricated by..."
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "dopant": [
+        {
+          "value": "5",
+          "evidence": "(a) Spectral changes in UV-Vis spectra of p(g42T-T) doped with 5, 10, 15, and 20 mol% F4TCNQ.",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "an",
+          "evidence": "These studies proved that the higher σ resulting from the vapor doping method is attributable to the crystalline ordering of the films after doping, because the morphology of the films was not disrupted, whereas the s...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "different",
+          "evidence": "That is, dopants should be dissolved in a semi- orthogonal solvent in which the pre-cast polymer films should not dissolve; rather, the films should expand to enable the dop- ants to penetrate the film without disturb...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "N-DMBI",
+          "evidence": "Upon doping with N-DMBI, the α of A-DCV-DPPTT decreased to -830 μV K-1 at 1 wt% N-DMBI and -568 μV K-1 at 5 wt% N-DMBI, while the σ increased to 0.3 and 3.1 S cm-1, respectively.",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "concentration",
+          "evidence": "That is, dopants should be dissolved in a semi- orthogonal solvent in which the pre-cast polymer films should not dissolve; rather, the films should expand to enable the dop- ants to penetrate the film without disturb...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "concentration.74",
+          "evidence": "These studies proved that the higher σ resulting from the vapor doping method is attributable to the crystalline ordering of the films after doping, because the morphology of the films was not disrupted, whereas the s...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "is",
+          "evidence": "Res., 28(6), 531-552 (2020) 541 © The Polymer Society of Korea and Springer 2020 tion-casting, selection of a suitable solvent for the dopants is imperative.",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "molecules",
+          "evidence": "Dopant vapor is deposited onto the pre-casted film by heating the dop- ants (sublimation or evaporation) to allow the dopant molecules to penetrate the polymer chains.",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "penetration",
+          "evidence": "These studies proved that the higher σ resulting from the vapor doping method is attributable to the crystalline ordering of the films after doping, because the morphology of the films was not disrupted, whereas the s...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "should",
+          "evidence": "That is, dopants should be dissolved in a semi- orthogonal solvent in which the pre-cast polymer films should not dissolve; rather, the films should expand to enable the dop- ants to penetrate the film without disturb...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "solution",
+          "evidence": "That is, dopants should be dissolved in a semi- orthogonal solvent in which the pre-cast polymer films should not dissolve; rather, the films should expand to enable the dop- ants to penetrate the film without disturb...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "vapor",
+          "evidence": "Dopant vapor is deposited onto the pre-casted film by heating the dop- ants (sublimation or evaporation) to allow the dopant molecules to penetrate the polymer chains.",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "as",
+          "evidence": "The doped Q-DCM-DPPTT also showed a similar inverse trend: as α decreased from -875 to -383 μV K-1, the σ increased up to ~0.1 S cm-1 at 5 wt% N-DMBI.15 Woo et al. reported a p-type polymer PCPDTSBT showing the Figure 4.",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "F4TCNQ",
+          "evidence": "These studies proved that the higher σ resulting from the vapor doping method is attributable to the crystalline ordering of the films after doping, because the morphology of the films was not disrupted, whereas the s...",
+          "pattern": "polymer:counterion_or_dopant"
+        }
+      ],
+      "doping_method": [
+        {
+          "value": "solution mixed doping",
+          "evidence": "That is, dopants should be dissolved in a semi- orthogonal solvent in which the pre-cast polymer films should not dissolve; rather, the films should expand to enable the dop- ants to penetrate the film without disturb..."
+        },
+        {
+          "value": "sequential doping",
+          "evidence": "That is, dopants should be dissolved in a semi- orthogonal solvent in which the pre-cast polymer films should not dissolve; rather, the films should expand to enable the dop- ants to penetrate the film without disturb..."
+        },
+        {
+          "value": "vapor doping",
+          "evidence": "The commonly used method that has emerged is the “vapor doping method” or “solid state diffu- sion”, which is a sequential-doping method because the dopant is introduced onto pre-cast polymer films; hence, the method ..."
+        },
+        {
+          "value": "drop casting",
+          "evidence": "These studies proved that the higher σ resulting from the vapor doping method is attributable to the crystalline ordering of the films after doping, because the morphology of the films was not disrupted, whereas the s..."
+        },
+        {
+          "value": "acid base treatment",
+          "evidence": "(b) Basic principle of acid-base doping and energy level dia- gram of redox doping."
+        }
+      ],
+      "film_preparation": [
+        {
+          "value": "solution cast film",
+          "evidence": "Res., 28(6), 531-552 (2020) 541 © The Polymer Society of Korea and Springer 2020 tion-casting, selection of a suitable solvent for the dopants is imperative."
+        },
+        {
+          "value": "drop cast film",
+          "evidence": "These studies proved that the higher σ resulting from the vapor doping method is attributable to the crystalline ordering of the films after doping, because the morphology of the films was not disrupted, whereas the s..."
+        },
+        {
+          "value": "solvent evaporation",
+          "evidence": "These studies proved that the higher σ resulting from the vapor doping method is attributable to the crystalline ordering of the films after doping, because the morphology of the films was not disrupted, whereas the s..."
+        }
+      ],
+      "solvent": [
+        {
+          "value": "a",
+          "evidence": "That is, dopants should be dissolved in a semi- orthogonal solvent in which the pre-cast polymer films should not dissolve; rather, the films should expand to enable the dop- ants to penetrate the film without disturb..."
+        },
+        {
+          "value": "chlorobenzene",
+          "evidence": "These studies proved that the higher σ resulting from the vapor doping method is attributable to the crystalline ordering of the films after doping, because the morphology of the films was not disrupted, whereas the s..."
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "dopant": [
+        {
+          "value": "the",
+          "evidence": "(2) (3) Here,σ0 is the pre-exponential factor, EC is the mobility edge, kB is Boltzmann’s constant, e is the unit charge, T is the tempera- ture, A is dimensionless and greater than 1 and is related to the weighted co...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "2",
+          "evidence": "Consequently, the PF is related to the inverse square-root of the conductivity, PF ∝σ -1/2 (dotted line in Figure 5(a) and Figure 5(b)).82 Here, they measured and plotted the thermoelectric properties of the well-know...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "4",
+          "evidence": "Consequently, the PF is related to the inverse square-root of the conductivity, PF ∝σ -1/2 (dotted line in Figure 5(a) and Figure 5(b)).82 Here, they measured and plotted the thermoelectric properties of the well-know...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "82",
+          "evidence": "(2) (3) Here,σ0 is the pre-exponential factor, EC is the mobility edge, kB is Boltzmann’s constant, e is the unit charge, T is the tempera- ture, A is dimensionless and greater than 1 and is related to the weighted co...",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "84",
+          "evidence": "The σ and α can be described as follows:84 (5) (6) where σ0 is the pre-exponential factor, T is temperature, the variable T0 is found via the temperature dependent σ of the Mott relation, and N is the DOS.",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "nearest",
+          "evidence": "Two types of hopping conduction models have been reported: nearest neighbor hopping (NNH) and variable range hopping (VRH).",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "B(C6F5)3",
+          "evidence": "Res., 28(6), 531-552 (2020) Macromolecular Research maximum σ of 7.47 S cm-1 at 29 mol% of B(C6F5)3 dopants.",
+          "pattern": "dopant hint list"
+        }
+      ],
+      "doping_method": [],
+      "film_preparation": [],
+      "solvent": []
+    },
+    {
+      "page": 13,
+      "dopant": [
+        {
+          "value": "4-(1,3-dimethyl-2,3-dihydro-1H-benzoim- idazol-2-yl)",
+          "evidence": "For example, in 2017, Katz et al. reported that the α-σ relation of doped polythiophene-based polymers (PQT12, PQTS12, PDTDE12, and PDTDES12) fitted this model well especially in high σ ranges.92 The blended polymers ...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "F4TCNQ",
+          "evidence": "Res., 28(6), 531-552 (2020) 543 © The Polymer Society of Korea and Springer 2020 thiophene-based polymers, P3HT, PBTTT-C14, P2TDC17-FT488-91 doped with F4TCNQ, and FTS and found that all of them show a clear trend tha...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "and",
+          "evidence": "Kang - Snyder model Although the empirical power law developed by Chabinyc et al. seems to fit several polymers with various dopants and doping Figure 5.",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "2",
+          "evidence": "The dashed lines indicate an empirical fit of α proportional to σ-1/4 and PF proportional to σ 1/2.",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "4",
+          "evidence": "The dashed lines indicate an empirical fit of α proportional to σ-1/4 and PF proportional to σ 1/2.",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "FTS",
+          "evidence": "Res., 28(6), 531-552 (2020) 543 © The Polymer Society of Korea and Springer 2020 thiophene-based polymers, P3HT, PBTTT-C14, P2TDC17-FT488-91 doped with F4TCNQ, and FTS and found that all of them show a clear trend tha...",
+          "pattern": "dopant hint list"
+        }
+      ],
+      "doping_method": [],
+      "film_preparation": [],
+      "solvent": []
+    },
+    {
+      "page": 14,
+      "dopant": [
+        {
+          "value": "diverse",
+          "evidence": "Flexible TE devices have been fabricated with integration into flexible substrates including fabrics,98,99 organic elastomers such as polydimethyl- siloxane (PDMS),100,101 polyethylene terephthalate (PET),9,102-104 po...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "five",
+          "evidence": "The TE output voltage and maximum output electrical power were 4.3 mV and 12.29 nW at a ΔT = 75.2 K using five strips of polyester fabrics as the substrate, σE E T , ( ) σE0 T ( ) E Et – kBT ------------ ⎝ ⎠ ⎛ ⎞ s × E...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "the",
+          "evidence": "They also calculated and compared the Wγ of PEDOT films, which is the energy barrier for inter- crystallite percolation carrier transport, by using the equation σE0∝exp , where γ is the dimensionality factor.",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "two",
+          "evidence": "In 2017, Kang and Snyder suggested a new empirical model (the K-S model) which suggested a more profound understand- ing of the charge transport properties of organic TE systems.80 They defined the transport function ...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "in",
+          "evidence": "Recently, Venkataraman et al. showed that the spatial distribution of dopants in the doped polymer films can profoundly affect the α-σ relation because it significantly influences the degree of energetic disorder and ...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "kBT",
+          "evidence": "(9) (10) where Fi is the Fermi-Dirac integral, η=(EF-Et)/kBT is the reduced chemical potential, and q is the unit charge.",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "PSS",
+          "evidence": "Especially, PEDOT:PSS have been widely used because of facile processability and stability because the low solubility of PEDOT in aqueous solutions can be improved by emulsification with PSS.115 As shown in Figure 6(a...",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "PSS-coated",
+          "evidence": "Especially, PEDOT:PSS have been widely used because of facile processability and stability because the low solubility of PEDOT in aqueous solutions can be improved by emulsification with PSS.115 As shown in Figure 6(a...",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "Tos26",
+          "evidence": "To date, only a few PEDOT- based systems (PEDOT:Tos26 and PEDOS-C6 95) have been reported to follow the α-σ curve with s = 1 (σE0=75 and 10 S cm-1, respec- tively) among the organic TE materials reported thus far, dem...",
+          "pattern": "polymer:counterion_or_dopant"
+        }
+      ],
+      "doping_method": [],
+      "film_preparation": [
+        {
+          "value": "printed film",
+          "evidence": "Flexible TE devices have been fabricated with integration into flexible substrates including fabrics,98,99 organic elastomers such as polydimethyl- siloxane (PDMS),100,101 polyethylene terephthalate (PET),9,102-104 po..."
+        },
+        {
+          "value": "vacuum filtered film",
+          "evidence": "Flexible TE devices have been fabricated with integration into flexible substrates including fabrics,98,99 organic elastomers such as polydimethyl- siloxane (PDMS),100,101 polyethylene terephthalate (PET),9,102-104 po..."
+        },
+        {
+          "value": "wet spun fibers",
+          "evidence": "Flexible TE devices have been fabricated with integration into flexible substrates including fabrics,98,99 organic elastomers such as polydimethyl- siloxane (PDMS),100,101 polyethylene terephthalate (PET),9,102-104 po..."
+        }
+      ],
+      "solvent": []
+    },
+    {
+      "page": 15,
+      "dopant": [
+        {
+          "value": "A",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "Ag",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "benzylviologen",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "CaH2",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "FeCl3",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "g",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "H2SO4",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "ITO",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "m2",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "n",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "NaOH",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "P3HT",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "PEBA-Li+",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "PEDOT",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "PEI",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "polystyrene",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "PSS",
+          "evidence": "Res., 28(6), 531-552 (2020) 545 © The Polymer Society of Korea and Springer 2020 which was coated with PEDOT:PSS.",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "PSS-coated",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "PSS/ITO",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "PSS/NaOH",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "PSS/PEI",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "PVDF",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty...",
+          "pattern": "polymer/dopant_or_treatment"
+        }
+      ],
+      "doping_method": [
+        {
+          "value": "post treatment",
+          "evidence": "Also, as the strategy to enhance power generation performance of PEDOT-based TE modules, acid (H2SO4) and base (NaOH) treated-PEDOT nanowire film was used as a p-type TE leg in the report by Cai et al (Figure 6(b)).10..."
+        },
+        {
+          "value": "acid base treatment",
+          "evidence": "Also, as the strategy to enhance power generation performance of PEDOT-based TE modules, acid (H2SO4) and base (NaOH) treated-PEDOT nanowire film was used as a p-type TE leg in the report by Cai et al (Figure 6(b)).10..."
+        },
+        {
+          "value": "vapor doping",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+        },
+        {
+          "value": "spin coating",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+        }
+      ],
+      "film_preparation": [
+        {
+          "value": "solution cast film",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+        },
+        {
+          "value": "printed film",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+        },
+        {
+          "value": "spray coated film",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+        },
+        {
+          "value": "vacuum filtered film",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+        },
+        {
+          "value": "wet spun fibers",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+        },
+        {
+          "value": "soaked / immersion coated",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+        },
+        {
+          "value": "solvent evaporation",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+        },
+        {
+          "value": "self assembled template",
+          "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+        }
+      ],
+      "solvent": []
+    },
+    {
+      "page": 16,
+      "dopant": [
+        {
+          "value": "Ag",
+          "evidence": "In addition, Yao and Chen et al. reported a flexible TE generator by employing P3HT-coated cotton thread as p-type material.99 The cotton thread coated with P3HT was chemically doped with Ag paste as the n-type material.",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "body",
+          "evidence": "Additionally, the TE module, which was designed to be orientated vertically to the heat source, was applied to a flexible self-powered sensor using body heat.",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "the",
+          "evidence": "As a trial to enable flexible TE modules to be practically applied using the normal single heat source such as body heat, the modules were designed to operate in response to vertical heat flow.99,105,113 Cho et al. in...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "PSS",
+          "evidence": "A chevron-structured TE generator, integrating 24 pairs of PEDOT:PSS films, was mechanically flexible and exhibited TE output power of approxi- mately 1 µW in vertical heat flow with a temperature gradient of 17.5K.",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "PSS-based",
+          "evidence": "As a trial to enable flexible TE modules to be practically applied using the normal single heat source such as body heat, the modules were designed to operate in response to vertical heat flow.99,105,113 Cho et al. in...",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "NaOH",
+          "evidence": "Di et al. developed a flexi- ble self-powered chemical sensor such as ammonia by inte- grating a chemical sensing unit based on an organic transistor with a flexible organic TE device (Figure 7(c)).113 NaOH treated- P...",
+          "pattern": "dopant hint list"
+        }
+      ],
+      "doping_method": [
+        {
+          "value": "post treatment",
+          "evidence": "TE properties were optimized by post-treatment with ethylene glycol to show low sheet resistance (< 10Ω sq−1) and high PF (642 µW m-1 K-2)."
+        }
+      ],
+      "film_preparation": [
+        {
+          "value": "spray coated film",
+          "evidence": "As a trial to enable flexible TE modules to be practically applied using the normal single heat source such as body heat, the modules were designed to operate in response to vertical heat flow.99,105,113 Cho et al. in..."
+        }
+      ],
+      "solvent": [
+        {
+          "value": "DMSO",
+          "evidence": "As a trial to enable flexible TE modules to be practically applied using the normal single heat source such as body heat, the modules were designed to operate in response to vertical heat flow.99,105,113 Cho et al. in..."
+        },
+        {
+          "value": "ethylene glycol",
+          "evidence": "TE properties were optimized by post-treatment with ethylene glycol to show low sheet resistance (< 10Ω sq−1) and high PF (642 µW m-1 K-2)."
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "dopant": [
+        {
+          "value": "a",
+          "evidence": "The CNF@PP was prepared by using a simple soaking method with DMSO.",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "CNT",
+          "evidence": "The hybridization of a conducting polymer with carbon nanotubes (CNTs) has been also considered as a promising method for enhancing the TE performance.100,110,116 The reason is because the contribution of the CNTs to ...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "H2SO4-treated",
+          "evidence": "Cho et al. also reported flexible TE generators by a simple printing process using H2SO4-treated tellurium-PEDOT:PSS (Te-PEDOT:PSS).",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "PEDOT",
+          "evidence": "The hybridization of conducting polymers with inorganic materials has been also investigated to improve the performance of organic flexible TE generators.9,104 Zhou et al. prepared a TE device using PEDOT:PSS as the p...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "post-processing",
+          "evidence": "The hybridization of a conducting polymer with carbon nanotubes (CNTs) has been also considered as a promising method for enhancing the TE performance.100,110,116 The reason is because the contribution of the CNTs to ...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "Te-PEDOT",
+          "evidence": "(b) Flexible TE generator using Te-PEDOT:PSS hybrid composite.",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "n",
+          "evidence": "TE module was fabricated with eight p/n couples of dimensions of 50 mm × 5 mm.",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "PSS",
+          "evidence": "The hybridization of conducting polymers with inorganic materials has been also investigated to improve the performance of organic flexible TE generators.9,104 Zhou et al. prepared a TE device using PEDOT:PSS as the p...",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "PSS-based",
+          "evidence": "(a) Flexible and transparent PEDOT:PSS-based organic-inorganic hybrid TE module on PET.",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "PSS-coated",
+          "evidence": "Liu, Xu, and Jiang et al. assem- bled a flexible fiber-based TE generator by connecting p-type PEDOT:PSS-coated common cotton fabric (CNF) (CNF@PP) and n-type CNT (n-CNT) fibers in series (Figure 9(b)).112 PDMS was us...",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "H2SO4",
+          "evidence": "Cho et al. also reported flexible TE generators by a simple printing process using H2SO4-treated tellurium-PEDOT:PSS (Te-PEDOT:PSS).",
+          "pattern": "dopant hint list"
+        },
+        {
+          "value": "hydrazine",
+          "evidence": "The hybridization of a conducting polymer with carbon nanotubes (CNTs) has been also considered as a promising method for enhancing the TE performance.100,110,116 The reason is because the contribution of the CNTs to ...",
+          "pattern": "dopant hint list"
+        },
+        {
+          "value": "PEI",
+          "evidence": "The hybridization of a conducting polymer with carbon nanotubes (CNTs) has been also considered as a promising method for enhancing the TE performance.100,110,116 The reason is because the contribution of the CNTs to ...",
+          "pattern": "dopant hint list"
+        },
+        {
+          "value": "polyethyleneimine",
+          "evidence": "The hybridization of a conducting polymer with carbon nanotubes (CNTs) has been also considered as a promising method for enhancing the TE performance.100,110,116 The reason is because the contribution of the CNTs to ...",
+          "pattern": "dopant hint list"
+        }
+      ],
+      "doping_method": [
+        {
+          "value": "post treatment",
+          "evidence": "TE properties of PEDOT:PSS and Te-PEDOT:PSS hybrid composites were enhanced by H2SO4 post-treatment (Figure 8(b)).9 The α of the hybrid composite was enhanced from 10.35 to 250 μV K−1 because of the inherent propertie..."
+        }
+      ],
+      "film_preparation": [
+        {
+          "value": "printed film",
+          "evidence": "Cho et al. also reported flexible TE generators by a simple printing process using H2SO4-treated tellurium-PEDOT:PSS (Te-PEDOT:PSS)."
+        },
+        {
+          "value": "soaked / immersion coated",
+          "evidence": "The CNF@PP was prepared by using a simple soaking method with DMSO."
+        }
+      ],
+      "solvent": [
+        {
+          "value": "DMSO",
+          "evidence": "The CNF@PP was prepared by using a simple soaking method with DMSO."
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "dopant": [
+        {
+          "value": "n",
+          "evidence": "(b) Fiber-based TE generator with eight p/n couples of CNF @PP and n-type CNT.",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "n-doped",
+          "evidence": "(c) TE device fabricated with optimized p-/n-doped CNT foams.",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "PEBA-Li+",
+          "evidence": "(b) Bilayer heterogeneous structured flexible module with CNT/PEBA-Li+ based films.",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "PEDOT",
+          "evidence": "(a) CNT/PEDOT:PSS composite ﬁber and the organic ﬁber TE generator.",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "PSS",
+          "evidence": "(a) CNT/PEDOT:PSS composite ﬁber and the organic ﬁber TE generator.",
+          "pattern": "polymer:counterion_or_dopant"
+        }
+      ],
+      "doping_method": [],
+      "film_preparation": [],
+      "solvent": []
+    },
+    {
+      "page": 19,
+      "dopant": [
+        {
+          "value": "diethylenetriamine",
+          "evidence": "The n-type CNT was obtained by using diethylenetriamine (DETA) as a dopant.",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "FeCl3",
+          "evidence": "Kim and Park et al. reported an ultralight flexible device based on carbon nano- tube yarn (CNTY), as shown in Figure 11(a), which solved the problem of high contact resistance.100 The prepared CNTY was divided into t...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "PEI",
+          "evidence": "Kim and Park et al. reported an ultralight flexible device based on carbon nano- tube yarn (CNTY), as shown in Figure 11(a), which solved the problem of high contact resistance.100 The prepared CNTY was divided into t...",
+          "pattern": "doped with X"
+        },
+        {
+          "value": "n",
+          "evidence": "In terms of the TE performance, the TE voltage with four p/n couples reached 7 mV at a temperature gradient of 50 K.",
+          "pattern": "polymer/dopant_or_treatment"
+        }
+      ],
+      "doping_method": [],
+      "film_preparation": [
+        {
+          "value": "solution cast film",
+          "evidence": "Pan et al. used the block copolymer poly(ether-b- amide12) (PEBA) with excellent flexibility and mechanical properties to fabricate TE materials by blending with CNTs (Figure 10(b)).108 After doping the PEBA with lith..."
+        }
+      ],
+      "solvent": []
+    },
+    {
+      "page": 20,
+      "dopant": [
+        {
+          "value": "and",
+          "evidence": "Conclusions Recently, organic TE generators have achieved remarkable advancements by extensive studies on p- and n-type materials design, new dopants and doping methods, morphology control in doped films and optimizat...",
+          "pattern": "dopant named"
+        },
+        {
+          "value": "as",
+          "evidence": "The σ and α have a trade-off relationship depending on the carrier concentration: as the carrier density increases, σ increases, but α decreases.",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "n-doped",
+          "evidence": "Res., 28(6), 531-552 (2020) Macromolecular Research flexible TE generators with and without Ag paste as the electrode was 27 and 21 Ω.100 The corresponding TE device based on 60 couples of p-/n-doped CNTY had a maximu...",
+          "pattern": "polymer/dopant_or_treatment"
+        },
+        {
+          "value": "PSS",
+          "evidence": "By tailoring post-treatments, PEDOT:PSS showed the highest ZT value of 0.75, demonstrating a similar TE performance to inorganic counterparts at room temperature. n-Type organic TE materi- als have also achieved the h...",
+          "pattern": "polymer:counterion_or_dopant"
+        },
+        {
+          "value": "PEI",
+          "evidence": "PEI solution was dropped onto the prepared CNT strip for localized n-type doping in the unshaded area of the strip with an alternately designed mask.",
+          "pattern": "dopant hint list"
+        }
+      ],
+      "doping_method": [
+        {
+          "value": "post treatment",
+          "evidence": "By tailoring post-treatments, PEDOT:PSS showed the highest ZT value of 0.75, demonstrating a similar TE performance to inorganic counterparts at room temperature. n-Type organic TE materi- als have also achieved the h..."
+        }
+      ],
+      "film_preparation": [],
+      "solvent": []
+    },
+    {
+      "page": 21,
+      "dopant": [
+        {
+          "value": "Pei",
+          "evidence": "Pei, J.",
+          "pattern": "dopant hint list"
+        }
+      ],
+      "doping_method": [],
+      "film_preparation": [],
+      "solvent": []
+    },
+    {
+      "page": 22,
+      "dopant": [
+        {
+          "value": "Pei",
+          "evidence": "Pei, Chem.",
+          "pattern": "dopant hint list"
+        }
+      ],
+      "doping_method": [],
+      "film_preparation": [],
+      "solvent": []
+    }
+  ],
+  "aggregate": {
+    "dopant": [
+      {
+        "value": "PSS",
+        "count": 9,
+        "evidence": "Organic Thermoelectric Materials 2.1. p-Type Thermoelectric Materials An extensively studied p-type TE material is poly(3,4-ethylene- dioxythiophene):poly(styrene sulfonate) (PEDOT:PSS)."
+      },
+      {
+        "value": "F4TCNQ",
+        "count": 8,
+        "evidence": "Moreover, they postulated that the disordered region may have led to strongly perturbed DOS, thus, enhancing α.30 Later, Chabinyc and coworkers investigated the TE characteristics of PBTTT-C14 by doping with 2,3,5,6-t..."
+      },
+      {
+        "value": "and",
+        "count": 6,
+        "evidence": "In this review, recent progresses in the organic TE materials and devices, dopants and doping method, charge transport models and flexible TE device applications are summarized and the key strategies and future prospe..."
+      },
+      {
+        "value": "the",
+        "count": 6,
+        "evidence": "Kiriy et al. modified the side-chains by extending the branching point (6-octyldodecyl) to synthesize PDPP(6-OD)2TT with the aim of improving the solubility and crystallinity of the film and studied its TE performance..."
+      },
+      {
+        "value": "FeCl3",
+        "count": 5,
+        "evidence": "This method improved the intermo- lecular chain packing, yielding high σ (254 S cm-1) and a maxi- mum PF of 35 μW m-1 K-2.33 In 2017, Cho et al. compared the TE properties of P3HT and a diketopyrrolopyrrole (DPP)-base..."
+      },
+      {
+        "value": "N-DMBI",
+        "count": 5,
+        "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Q-DCM-DPPTT/N-DMBI 0.11 (0.24a) -383 (-420a) 1.7 (4.2a) Solution mixing 15 A-D..."
+      },
+      {
+        "value": "TDAE",
+        "count": 5,
+        "evidence": "Crispin et al. added PEDOT:Tos to the reducing agent, tetrakis(dimethylamino)ethylene (TDAE),"
+      },
+      {
+        "value": "a",
+        "count": 4,
+        "evidence": "The maximum PF of 334 μW m-1 K-2 with σ of 2170 S cm-1 and α of 39.2 μV K-1, were obtained by carefully adjusting the treatment with acid and base at room temperature.24 In 2018, Ouyang and coworkers also reported pos..."
+      },
+      {
+        "value": "concentration",
+        "count": 4,
+        "evidence": "After doping with N-DMBI, A-DCV-DPPTT films underwent no obvious changes in their morphology even at a dopant concentration of approximately 10 wt%."
+      },
+      {
+        "value": "H2SO4",
+        "count": 4,
+        "evidence": "They thus measured σ of 1061 S cm-1 and α of 38.4μV K-1 at the maximum PF of 157.4 μW m-1 K-2, when PEDOT:PSS was doped with 5% DMSO and 0.3% PEO.23 Ouyang et al. reported the sequential treatment of the PEDOT:PSS fil..."
+      },
+      {
+        "value": "in",
+        "count": 4,
+        "evidence": "To improve the miscibility of dopants in polymer matrices and the resulting doping efficiency, Koster et al. introduced polar triethylene glycol (TEG)-based side-chains instead of nonpolar alkyl chains and synthesized..."
+      },
+      {
+        "value": "n",
+        "count": 4,
+        "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+      },
+      {
+        "value": "NaOH",
+        "count": 4,
+        "evidence": "They thus measured σ of 1061 S cm-1 and α of 38.4μV K-1 at the maximum PF of 157.4 μW m-1 K-2, when PEDOT:PSS was doped with 5% DMSO and 0.3% PEO.23 Ouyang et al. reported the sequential treatment of the PEDOT:PSS fil..."
+      },
+      {
+        "value": "Pei",
+        "count": 4,
+        "evidence": "Recently, Pei et al. reported a series of promising n-type TE polymers based on different conjugated backbones."
+      },
+      {
+        "value": "PEI",
+        "count": 4,
+        "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+      },
+      {
+        "value": "2",
+        "count": 3,
+        "evidence": "Moreover, they postulated that the disordered region may have led to strongly perturbed DOS, thus, enhancing α.30 Later, Chabinyc and coworkers investigated the TE characteristics of PBTTT-C14 by doping with 2,3,5,6-t..."
+      },
+      {
+        "value": "A",
+        "count": 3,
+        "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+      },
+      {
+        "value": "FTS",
+        "count": 3,
+        "evidence": "Even though the value of σ that was achieved by using EBSA (1300 S cm-1) via solution doping was higher than that of FTS (1000 S cm-1) via vapor doping, the vapor-doped PBTTT-C14:FTS film had a maximum PF of 110 μW m-..."
+      },
+      {
+        "value": "is",
+        "count": 3,
+        "evidence": "In par- ticular, p-doping requires the HOMO level of a polymer (known as an electron-rich p-type polymer) to be close to or higher than the LUMO level of the dopant to enable positive polarons (and/or bipolarons) to b..."
+      },
+      {
+        "value": "PEDOT",
+        "count": 3,
+        "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+      },
+      {
+        "value": "PSS-coated",
+        "count": 3,
+        "evidence": "Especially, PEDOT:PSS have been widely used because of facile processability and stability because the low solubility of PEDOT in aqueous solutions can be improved by emulsification with PSS.115 As shown in Figure 6(a..."
+      },
+      {
+        "value": "TFSI",
+        "count": 3,
+        "evidence": "The TE performance is also compet- itive against highly functioning inorganic TE materials such as bismuth telluride.16 In addition to various post treatments of PEDOT:PSS films, different counterions to replace PSS, ..."
+      },
+      {
+        "value": "Tos",
+        "count": 3,
+        "evidence": "Crispin et al. added PEDOT:Tos to the reducing agent, tetrakis(dimethylamino)ethylene (TDAE),"
+      },
+      {
+        "value": "4",
+        "count": 2,
+        "evidence": "Consequently, the PF is related to the inverse square-root of the conductivity, PF ∝σ -1/2 (dotted line in Figure 5(a) and Figure 5(b)).82 Here, they measured and plotted the thermoelectric properties of the well-know..."
+      },
+      {
+        "value": "5",
+        "count": 2,
+        "evidence": "They thus measured σ of 1061 S cm-1 and α of 38.4μV K-1 at the maximum PF of 157.4 μW m-1 K-2, when PEDOT:PSS was doped with 5% DMSO and 0.3% PEO.23 Ouyang et al. reported the sequential treatment of the PEDOT:PSS fil..."
+      },
+      {
+        "value": "9",
+        "count": 2,
+        "evidence": "Moreover, when the polymer was doped with 9 mol% of B(C6F5)3, it exhibited the maximum σ (7.47 S cm-1), which was about one order of mag- nitude higher than that of PCPDTBT (0.65 S cm-1) with normal ethylhexyl side-ch..."
+      },
+      {
+        "value": "Ag",
+        "count": 2,
+        "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+      },
+      {
+        "value": "as",
+        "count": 2,
+        "evidence": "The doped Q-DCM-DPPTT also showed a similar inverse trend: as α decreased from -875 to -383 μV K-1, the σ increased up to ~0.1 S cm-1 at 5 wt% N-DMBI.15 Woo et al. reported a p-type polymer PCPDTSBT showing the Figure 4."
+      },
+      {
+        "value": "B(C6F5)3",
+        "count": 2,
+        "evidence": "Moreover, when the polymer was doped with 9 mol% of B(C6F5)3, it exhibited the maximum σ (7.47 S cm-1), which was about one order of mag- nitude higher than that of PCPDTBT (0.65 S cm-1) with normal ethylhexyl side-ch..."
+      },
+      {
+        "value": "CN6-CP",
+        "count": 2,
+        "evidence": "This difference was attributed to more effective doping with CN6-CP compared to F4TCNQ as the LUMO (-5.87 eV) level of CN6-CP is positioned below the HOMO level of PDPP(6-DO)2TT (-5.5 eV), offering a feasible charge t..."
+      },
+      {
+        "value": "concentrations",
+        "count": 2,
+        "evidence": "The hole mobility μ of PDPPSe-12 increased to 1.87 cm2 V-1 s-1 at [FeCl3] = 5 mM and was maintained at 1.10 cm2 V-1 s-1 even when the dop- ant concentration was [FeCl3] = 15 mM compared to PDPPS-12 at the same dopant ..."
+      },
+      {
+        "value": "dopant",
+        "count": 2,
+        "evidence": "This permitted the preparation of uniform polymer:dopant films for which maximum PF of 31.5 μW m-1 K-2 and 21.8 μW m-1 K-2 was eventually obtained for PCDTFBT and PCDTPT, respectively.42 Additionally, side-chain engin..."
+      },
+      {
+        "value": "Dopant",
+        "count": 2,
+        "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+      },
+      {
+        "value": "EBSA",
+        "count": 2,
+        "evidence": "Even though the value of σ that was achieved by using EBSA (1300 S cm-1) via solution doping was higher than that of FTS (1000 S cm-1) via vapor doping, the vapor-doped PBTTT-C14:FTS film had a maximum PF of 110 μW m-..."
+      },
+      {
+        "value": "EMIM-BF4",
+        "count": 2,
+        "evidence": "They obtained a maximum PF of 23.5 μW m-1 K-2 with σ in the range of 0.3-300 S cm-1 and α in the range of 20-400 μV K-1 when the doping level was lowered from 33% to 14.5%.19 In 2013, Luo et al. reported the effects o..."
+      },
+      {
+        "value": "EMIM-DCA",
+        "count": 2,
+        "evidence": "Using EMIM-DCA, they achieved the maximum PF of 754 μW m-1 K-2 and ZT of 0.75."
+      },
+      {
+        "value": "F2TCNQ",
+        "count": 2,
+        "evidence": "Therefore, the vapor-doped PBTTT-C14 with F4TCNQ exhibited the maxi- mum PF of 120 μW m-1 K-2 with of 670 S cm-1 and of 42 μV K-1 whereas doping with F2TCNQ yielded maximum PF of 70 μW m-1 K-2.31 Another widely studie..."
+      },
+      {
+        "value": "have",
+        "count": 2,
+        "evidence": "The σ of p-type materials has already exceeded 1000 S cm-1.21,26 In contrast, the value of σ of most n-type materials has remained relatively low and few structures are known to have achieved σ over 1 S cm-1 after dop..."
+      },
+      {
+        "value": "hydrazine",
+        "count": 2,
+        "evidence": "Their approach increased both σ and α, and suppressed the thermal conductivity from 0.30 to 0.22 W m-1 K-1 in the DMSO-mixed PEDOT:PSS and from 0.32 to 0.23 W m-1 K-1 in EG-mixed PEDOT:PSS.21 Similarly, Kim et al. rep..."
+      },
+      {
+        "value": "n-doped",
+        "count": 2,
+        "evidence": "(c) TE device fabricated with optimized p-/n-doped CNT foams."
+      },
+      {
+        "value": "or",
+        "count": 2,
+        "evidence": "In par- ticular, p-doping requires the HOMO level of a polymer (known as an electron-rich p-type polymer) to be close to or higher than the LUMO level of the dopant to enable positive polarons (and/or bipolarons) to b..."
+      },
+      {
+        "value": "PEBA-Li+",
+        "count": 2,
+        "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+      },
+      {
+        "value": "PEO",
+        "count": 2,
+        "evidence": "By controlling the concentration of hydrazine (0.0175 wt%), the film exhibited the maximum PF of 112 μW m-1 K-2 with σ of 578 S cm-1 and α of 67 μV K-1.22 Furthermore, Gong et al. reported a post-treatment method usin..."
+      },
+      {
+        "value": "PSS-based",
+        "count": 2,
+        "evidence": "As a trial to enable flexible TE modules to be practically applied using the normal single heat source such as body heat, the modules were designed to operate in response to vertical heat flow.99,105,113 Cho et al. in..."
+      },
+      {
+        "value": "should",
+        "count": 2,
+        "evidence": "A prerequisite for effective n-doping is that the HOMO level of dopants should be higher than the LUMO level of n-type mol- Table 1."
+      },
+      {
+        "value": "TBAF",
+        "count": 2,
+        "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Q-DCM-DPPTT/N-DMBI 0.11 (0.24a) -383 (-420a) 1.7 (4.2a) Solution mixing 15 A-D..."
+      },
+      {
+        "value": "were",
+        "count": 2,
+        "evidence": "The introduction of the Se atom induced efficient intermolecular pack- ing via Se-Se chalcogen interactions and the enhanced intermo- lecular packing increased σ while sustaining its morphology after the dopants were ..."
+      },
+      {
+        "value": "yielded",
+        "count": 2,
+        "evidence": "Several highly performing TE polymers have been designed based on the poly(2,5-bis(3-alkylthiophen-2-yl)thieno[3,2-b]thio- phene) (PBTTT) structure, with a highly ordered morphology in film owing to its liquid crystal..."
+      },
+      {
+        "value": "13233",
+        "count": 1,
+        "evidence": "DOI 10.1007/s13233-020-8116-y www.springer.com/13233 pISSN 1598-5032 eISSN 2092-7673 Macromolecular Research Review Macromol."
+      },
+      {
+        "value": "25",
+        "count": 1,
+        "evidence": "Doping with 25 mol% TBAF enabled them to achieve the maximum σ of 0.62 S cm-1 and PF of 0.63 μW m-1 K-2 in air."
+      },
+      {
+        "value": "4-(1,3-dimethyl-2,3-dihydro-1H-benzoim- idazol-2-yl)",
+        "count": 1,
+        "evidence": "For example, in 2017, Katz et al. reported that the α-σ relation of doped polythiophene-based polymers (PQT12, PQTS12, PDTDE12, and PDTDES12) fitted this model well especially in high σ ranges.92 The blended polymers ..."
+      },
+      {
+        "value": "4-ethyl-benzenesulfonic",
+        "count": 1,
+        "evidence": "Several highly performing TE polymers have been designed based on the poly(2,5-bis(3-alkylthiophen-2-yl)thieno[3,2-b]thio- phene) (PBTTT) structure, with a highly ordered morphology in film owing to its liquid crystal..."
+      },
+      {
+        "value": "82",
+        "count": 1,
+        "evidence": "(2) (3) Here,σ0 is the pre-exponential factor, EC is the mobility edge, kB is Boltzmann’s constant, e is the unit charge, T is the tempera- ture, A is dimensionless and greater than 1 and is related to the weighted co..."
+      },
+      {
+        "value": "84",
+        "count": 1,
+        "evidence": "The σ and α can be described as follows:84 (5) (6) where σ0 is the pre-exponential factor, T is temperature, the variable T0 is found via the temperature dependent σ of the Mott relation, and N is the DOS."
+      },
+      {
+        "value": "Accepted",
+        "count": 1,
+        "evidence": "Organic materials are flexible and robust with low weight and low thermal conductivity (0.1- 0.8W m-1 K-1).14 Therefore, organic TE materials have been identi- fied as an alternative to find complementary applications..."
+      },
+      {
+        "value": "an",
+        "count": 1,
+        "evidence": "These studies proved that the higher σ resulting from the vapor doping method is attributable to the crystalline ordering of the films after doping, because the morphology of the films was not disrupted, whereas the s..."
+      },
+      {
+        "value": "atomic",
+        "count": 1,
+        "evidence": "Based on morphological analyses using atomic force microscopy (AFM) and GIWAXS, they observed no significant morphological changes when compared to pristine films."
+      },
+      {
+        "value": "B(C6H5)",
+        "count": 1,
+        "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+      },
+      {
+        "value": "B(C6H5)3",
+        "count": 1,
+        "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+      },
+      {
+        "value": "benzylviologen",
+        "count": 1,
+        "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+      },
+      {
+        "value": "bipolarons",
+        "count": 1,
+        "evidence": "The strong quinoid character of the BBT polymers allowed effi- cient intramolecular delocalization of the polarons/bipolarons and intermolecular long-range ordering."
+      },
+      {
+        "value": "blends",
+        "count": 1,
+        "evidence": "This improved the com- patibility of the polymer and dopant, promoting coprocessing and morphologically stable polymer:dopant blends."
+      },
+      {
+        "value": "body",
+        "count": 1,
+        "evidence": "Additionally, the TE module, which was designed to be orientated vertically to the heat source, was applied to a flexible self-powered sensor using body heat."
+      },
+      {
+        "value": "CaH2",
+        "count": 1,
+        "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+      },
+      {
+        "value": "CNT",
+        "count": 1,
+        "evidence": "The hybridization of a conducting polymer with carbon nanotubes (CNTs) has been also considered as a promising method for enhancing the TE performance.100,110,116 The reason is because the contribution of the CNTs to ..."
+      },
+      {
+        "value": "com-",
+        "count": 1,
+        "evidence": "AFM analysis showed that the film morphology had improved substantially, suggesting that the introduction of polar TEG chains improved the miscibility with polar dopants com- pared to the doped N2200 film."
+      },
+      {
+        "value": "concentration.74",
+        "count": 1,
+        "evidence": "These studies proved that the higher σ resulting from the vapor doping method is attributable to the crystalline ordering of the films after doping, because the morphology of the films was not disrupted, whereas the s..."
+      },
+      {
+        "value": "contents",
+        "count": 1,
+        "evidence": "Moreover, the long side-chains of these molecules were responsible for retaining their good solubilities even at high dopant contents (up to 38 mol%)."
+      },
+      {
+        "value": "counterion",
+        "count": 1,
+        "evidence": "In 2019, a new n-dopant (N- DMBI)2, which is a dimeric structure of N-DMBI, was designed and synthesized by considering the high reduction ability (sim- ilar to that of the dimeric metal dopant (RuCp*mes)2) and size o..."
+      },
+      {
+        "value": "counterions",
+        "count": 1,
+        "evidence": "The researchers claimed that not only the dop- ing mechanism but also the shape (or size) of dopant counterions strongly influenced the TE and charge transport properties."
+      },
+      {
+        "value": "DDQ",
+        "count": 1,
+        "evidence": "The elec- tron-donating tetraethylene glycol side-chains of the p(g42T-T) polymer decreased the ionization energy, thus making it possible to use even weaker dopants, i.e., 3-dichloro-5,6-dicyano-1,4-benzo- quinone (D..."
+      },
+      {
+        "value": "diethylenetriamine",
+        "count": 1,
+        "evidence": "The n-type CNT was obtained by using diethylenetriamine (DETA) as a dopant."
+      },
+      {
+        "value": "different",
+        "count": 1,
+        "evidence": "That is, dopants should be dissolved in a semi- orthogonal solvent in which the pre-cast polymer films should not dissolve; rather, the films should expand to enable the dop- ants to penetrate the film without disturb..."
+      },
+      {
+        "value": "diverse",
+        "count": 1,
+        "evidence": "Flexible TE devices have been fabricated with integration into flexible substrates including fabrics,98,99 organic elastomers such as polydimethyl- siloxane (PDMS),100,101 polyethylene terephthalate (PET),9,102-104 po..."
+      },
+      {
+        "value": "DMSO",
+        "count": 1,
+        "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+      },
+      {
+        "value": "EMIM-TFSI",
+        "count": 1,
+        "evidence": "The maximum PF of 334 μW m-1 K-2 with σ of 2170 S cm-1 and α of 39.2 μV K-1, were obtained by carefully adjusting the treatment with acid and base at room temperature.24 In 2018, Ouyang and coworkers also reported pos..."
+      },
+      {
+        "value": "Fe(III)",
+        "count": 1,
+        "evidence": "Several highly performing TE polymers have been designed based on the poly(2,5-bis(3-alkylthiophen-2-yl)thieno[3,2-b]thio- phene) (PBTTT) structure, with a highly ordered morphology in film owing to its liquid crystal..."
+      },
+      {
+        "value": "Fe(TFSI)3",
+        "count": 1,
+        "evidence": "Several highly performing TE polymers have been designed based on the poly(2,5-bis(3-alkylthiophen-2-yl)thieno[3,2-b]thio- phene) (PBTTT) structure, with a highly ordered morphology in film owing to its liquid crystal..."
+      },
+      {
+        "value": "films",
+        "count": 1,
+        "evidence": "This permitted the preparation of uniform polymer:dopant films for which maximum PF of 31.5 μW m-1 K-2 and 21.8 μW m-1 K-2 was eventually obtained for PCDTFBT and PCDTPT, respectively.42 Additionally, side-chain engin..."
+      },
+      {
+        "value": "five",
+        "count": 1,
+        "evidence": "The TE output voltage and maximum output electrical power were 4.3 mV and 12.29 nW at a ΔT = 75.2 K using five strips of polyester fabrics as the substrate, σE E T , ( ) σE0 T ( ) E Et – kBT ------------ ⎝ ⎠ ⎛ ⎞ s × E..."
+      },
+      {
+        "value": "forms",
+        "count": 1,
+        "evidence": "Charge transfer between the polymer and dopant forms a charge transfer (CT) complex and the fact that the solubility of the charged species differs from that of the neutral polymers (and dopants), causes them to readi..."
+      },
+      {
+        "value": "g",
+        "count": 1,
+        "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+      },
+      {
+        "value": "Gav",
+        "count": 1,
+        "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+      },
+      {
+        "value": "GIWAXS",
+        "count": 1,
+        "evidence": "Morphological study using GIWAXS showed that both PDPH and PDPF had strong edge-on orientation."
+      },
+      {
+        "value": "H2SO4-treated",
+        "count": 1,
+        "evidence": "Cho et al. also reported flexible TE generators by a simple printing process using H2SO4-treated tellurium-PEDOT:PSS (Te-PEDOT:PSS)."
+      },
+      {
+        "value": "high",
+        "count": 1,
+        "evidence": "Charge transfer between the polymer and dopant forms a charge transfer (CT) complex and the fact that the solubility of the charged species differs from that of the neutral polymers (and dopants), causes them to readi..."
+      },
+      {
+        "value": "HZ",
+        "count": 1,
+        "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+      },
+      {
+        "value": "i.e",
+        "count": 1,
+        "evidence": "The elec- tron-donating tetraethylene glycol side-chains of the p(g42T-T) polymer decreased the ionization energy, thus making it possible to use even weaker dopants, i.e., 3-dichloro-5,6-dicyano-1,4-benzo- quinone (D..."
+      },
+      {
+        "value": "ITO",
+        "count": 1,
+        "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+      },
+      {
+        "value": "kBT",
+        "count": 1,
+        "evidence": "(9) (10) where Fi is the Fermi-Dirac integral, η=(EF-Et)/kBT is the reduced chemical potential, and q is the unit charge."
+      },
+      {
+        "value": "m2",
+        "count": 1,
+        "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+      },
+      {
+        "value": "molecules",
+        "count": 1,
+        "evidence": "Dopant vapor is deposited onto the pre-casted film by heating the dop- ants (sublimation or evaporation) to allow the dopant molecules to penetrate the polymer chains."
+      },
+      {
+        "value": "Nap",
+        "count": 1,
+        "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+      },
+      {
+        "value": "nearest",
+        "count": 1,
+        "evidence": "Two types of hopping conduction models have been reported: nearest neighbor hopping (NNH) and variable range hopping (VRH)."
+      },
+      {
+        "value": "NOPF6",
+        "count": 1,
+        "evidence": "Several highly performing TE polymers have been designed based on the poly(2,5-bis(3-alkylthiophen-2-yl)thieno[3,2-b]thio- phene) (PBTTT) structure, with a highly ordered morphology in film owing to its liquid crystal..."
+      },
+      {
+        "value": "of",
+        "count": 1,
+        "evidence": "In 2019, a new n-dopant (N- DMBI)2, which is a dimeric structure of N-DMBI, was designed and synthesized by considering the high reduction ability (sim- ilar to that of the dimeric metal dopant (RuCp*mes)2) and size o..."
+      },
+      {
+        "value": "on",
+        "count": 1,
+        "evidence": "In 2019, a new n-dopant (N- DMBI)2, which is a dimeric structure of N-DMBI, was designed and synthesized by considering the high reduction ability (sim- ilar to that of the dimeric metal dopant (RuCp*mes)2) and size o..."
+      },
+      {
+        "value": "organic",
+        "count": 1,
+        "evidence": "Keywords: organic thermoelectrics, waste heat, Seebeck coefficient, conductivity, power factor."
+      },
+      {
+        "value": "OTS",
+        "count": 1,
+        "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+      },
+      {
+        "value": "P3HT",
+        "count": 1,
+        "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+      },
+      {
+        "value": "penetration",
+        "count": 1,
+        "evidence": "These studies proved that the higher σ resulting from the vapor doping method is attributable to the crystalline ordering of the films after doping, because the morphology of the films was not disrupted, whereas the s..."
+      },
+      {
+        "value": "PF6",
+        "count": 1,
+        "evidence": "The TE performance is also compet- itive against highly functioning inorganic TE materials such as bismuth telluride.16 In addition to various post treatments of PEDOT:PSS films, different counterions to replace PSS, ..."
+      },
+      {
+        "value": "poly(styrene",
+        "count": 1,
+        "evidence": "Organic Thermoelectric Materials 2.1. p-Type Thermoelectric Materials An extensively studied p-type TE material is poly(3,4-ethylene- dioxythiophene):poly(styrene sulfonate) (PEDOT:PSS)."
+      },
+      {
+        "value": "polyethyleneimine",
+        "count": 1,
+        "evidence": "The hybridization of a conducting polymer with carbon nanotubes (CNTs) has been also considered as a promising method for enhancing the TE performance.100,110,116 The reason is because the contribution of the CNTs to ..."
+      },
+      {
+        "value": "polystyrene",
+        "count": 1,
+        "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+      },
+      {
+        "value": "post-processing",
+        "count": 1,
+        "evidence": "The hybridization of a conducting polymer with carbon nanotubes (CNTs) has been also considered as a promising method for enhancing the TE performance.100,110,116 The reason is because the contribution of the CNTs to ..."
+      },
+      {
+        "value": "prepared",
+        "count": 1,
+        "evidence": "At the optimal oxidation level of 22%, a maximum PF of 324 µW m-1 K-2 was achieved, resulting in a ZT of 0.25 at room temperature.26 Kim et al. introduced PP- PEDOT:Tos (PP-PEDOT: prepared from a mixture of pyridine a..."
+      },
+      {
+        "value": "promoting",
+        "count": 1,
+        "evidence": "This improved the com- patibility of the polymer and dopant, promoting coprocessing and morphologically stable polymer:dopant blends."
+      },
+      {
+        "value": "PSS/EMIM-DCA",
+        "count": 1,
+        "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+      },
+      {
+        "value": "PSS/ITO",
+        "count": 1,
+        "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+      },
+      {
+        "value": "PSS/NaOH",
+        "count": 1,
+        "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+      },
+      {
+        "value": "PSS/PEI",
+        "count": 1,
+        "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+      },
+      {
+        "value": "PVDF",
+        "count": 1,
+        "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+      },
+      {
+        "value": "resonance",
+        "count": 1,
+        "evidence": "In the vapor-doped polymer films with F4TCNQ, an elongated orientation correlation length (OCL) was observed using resonance soft X-ray scattering (RSoXS)."
+      },
+      {
+        "value": "respectively",
+        "count": 1,
+        "evidence": "The PF values were deter- mined to be approximately 7, 5, and 1 μW m-1 K-2 with (N-DMBI)2, N-DMBI, and (RuCp*mes)2 as dopants, respectively."
+      },
+      {
+        "value": "resulted",
+        "count": 1,
+        "evidence": "The use of sequential solution doping using FeCl3 as p-dopant resulted in the maximum being determined to be 287 S cm-1 and 313.9 S cm-1 for pBBT-2T-TT and pBBT-2T-2T, respectively."
+      },
+      {
+        "value": "Revised",
+        "count": 1,
+        "evidence": "Organic materials are flexible and robust with low weight and low thermal conductivity (0.1- 0.8W m-1 K-1).14 Therefore, organic TE materials have been identi- fied as an alternative to find complementary applications..."
+      },
+      {
+        "value": "s13233-020-8116-y",
+        "count": 1,
+        "evidence": "DOI 10.1007/s13233-020-8116-y www.springer.com/13233 pISSN 1598-5032 eISSN 2092-7673 Macromolecular Research Review Macromol."
+      },
+      {
+        "value": "solution",
+        "count": 1,
+        "evidence": "That is, dopants should be dissolved in a semi- orthogonal solvent in which the pre-cast polymer films should not dissolve; rather, the films should expand to enable the dop- ants to penetrate the film without disturb..."
+      },
+      {
+        "value": "solution-based",
+        "count": 1,
+        "evidence": "Conversely, organic materials offer more cost-effective high-throughput fabrication using solution-based printing techniques with the additional advantages such as facile tunability of molecular struc- tures to tailor..."
+      },
+      {
+        "value": "started",
+        "count": 1,
+        "evidence": "In the case of the Q-DCM-DPP films, the dopants started to aggregate on the film as the dopant concentration was increased (5 wt% N-DMBI)."
+      },
+      {
+        "value": "Te-PEDOT",
+        "count": 1,
+        "evidence": "(b) Flexible TE generator using Te-PEDOT:PSS hybrid composite."
+      },
+      {
+        "value": "tetrabutylammonium",
+        "count": 1,
+        "evidence": "In 2017, Katz et al. also reported that ClB- DPPV doped with tetrabutylammonium fluoride (TBAF) was stable under ambient conditions."
+      },
+      {
+        "value": "thermoelec-",
+        "count": 1,
+        "evidence": "The max- imum PF values were measured to be 2.3 × 10-4 and 4.5 μW m-1 K-2 for P(NDI2TEG-2T) and P(NDI2TEG-2Tz), respectively.54 The result emphasized the importance of chain planarity for efficient charge carrier tran..."
+      },
+      {
+        "value": "to",
+        "count": 1,
+        "evidence": "In par- ticular, p-doping requires the HOMO level of a polymer (known as an electron-rich p-type polymer) to be close to or higher than the LUMO level of the dopant to enable positive polarons (and/or bipolarons) to b..."
+      },
+      {
+        "value": "Tos/TDAE",
+        "count": 1,
+        "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+      },
+      {
+        "value": "Tos26",
+        "count": 1,
+        "evidence": "To date, only a few PEDOT- based systems (PEDOT:Tos26 and PEDOS-C6 95) have been reported to follow the α-σ curve with s = 1 (σE0=75 and 10 S cm-1, respec- tively) among the organic TE materials reported thus far, dem..."
+      },
+      {
+        "value": "transfer",
+        "count": 1,
+        "evidence": "In the case of n-doping, the dopants transfer electrons to the LUMO of electron-deficient n- type polymers, generating negative polarons (and/or bipolar- ons) along the polymer backbone."
+      },
+      {
+        "value": "two",
+        "count": 1,
+        "evidence": "In 2017, Kang and Snyder suggested a new empirical model (the K-S model) which suggested a more profound understand- ing of the charge transport properties of organic TE systems.80 They defined the transport function ..."
+      },
+      {
+        "value": "vapor",
+        "count": 1,
+        "evidence": "Dopant vapor is deposited onto the pre-casted film by heating the dop- ants (sublimation or evaporation) to allow the dopant molecules to penetrate the polymer chains."
+      },
+      {
+        "value": "which",
+        "count": 1,
+        "evidence": "Charge transfer between the polymer and dopant forms a charge transfer (CT) complex and the fact that the solubility of the charged species differs from that of the neutral polymers (and dopants), causes them to readi..."
+      }
+    ],
+    "doping_method": [
+      {
+        "value": "post treatment",
+        "count": 6,
+        "evidence": "They obtained a maximum PF of 23.5 μW m-1 K-2 with σ in the range of 0.3-300 S cm-1 and α in the range of 20-400 μV K-1 when the doping level was lowered from 33% to 14.5%.19 In 2013, Luo et al. reported the effects o..."
+      },
+      {
+        "value": "vapor doping",
+        "count": 6,
+        "evidence": "Even though the value of σ that was achieved by using EBSA (1300 S cm-1) via solution doping was higher than that of FTS (1000 S cm-1) via vapor doping, the vapor-doped PBTTT-C14:FTS film had a maximum PF of 110 μW m-..."
+      },
+      {
+        "value": "acid base treatment",
+        "count": 4,
+        "evidence": "They thus measured σ of 1061 S cm-1 and α of 38.4μV K-1 at the maximum PF of 157.4 μW m-1 K-2, when PEDOT:PSS was doped with 5% DMSO and 0.3% PEO.23 Ouyang et al. reported the sequential treatment of the PEDOT:PSS fil..."
+      },
+      {
+        "value": "drop casting",
+        "count": 4,
+        "evidence": "This method improved the intermo- lecular chain packing, yielding high σ (254 S cm-1) and a maxi- mum PF of 35 μW m-1 K-2.33 In 2017, Cho et al. compared the TE properties of P3HT and a diketopyrrolopyrrole (DPP)-base..."
+      },
+      {
+        "value": "immersion doping",
+        "count": 4,
+        "evidence": "In addition, post-treatment with EMIMBF4 induced an intercon- nected network of short and circular PEDOT grains with increased polaron density, resulting in further improvement in α to max- imize the PF (38.46 μW m-1 ..."
+      },
+      {
+        "value": "sequential doping",
+        "count": 4,
+        "evidence": "This method improved the intermo- lecular chain packing, yielding high σ (254 S cm-1) and a maxi- mum PF of 35 μW m-1 K-2.33 In 2017, Cho et al. compared the TE properties of P3HT and a diketopyrrolopyrrole (DPP)-base..."
+      },
+      {
+        "value": "solution mixed doping",
+        "count": 4,
+        "evidence": "The value in parenthesis is the maximum α or σ Semiconductor/Dopant σat max PF (S cm-1) αat max PF (μV K-1) PFmax (μW m-1 K-2) Methods Ref Acid-base treated PEDOT:PSS/EMIM-DCA (1600) (65) 754 Sequential 16 PEDOT:PSS (..."
+      },
+      {
+        "value": "spin coating",
+        "count": 3,
+        "evidence": "They obtained a maximum PF of 23.5 μW m-1 K-2 with σ in the range of 0.3-300 S cm-1 and α in the range of 20-400 μV K-1 when the doping level was lowered from 33% to 14.5%.19 In 2013, Luo et al. reported the effects o..."
+      },
+      {
+        "value": "electrochemical dedoping",
+        "count": 2,
+        "evidence": "Crispin et al. tried to control the oxidation level of PEDOT:PSS by fabricating electrochemical transistors."
+      },
+      {
+        "value": "wire bar coating",
+        "count": 2,
+        "evidence": "For example, Zhu et al. reported that P3HT film doped with Fe(III) (TFSI)3 achieved a maximum PF of 26 μW m-1 K-2 at temperatures between 300 and 340 K, which was attributed to its high carrier concen- tration (1.62 ×..."
+      }
+    ],
+    "film_preparation": [
+      {
+        "value": "soaked / immersion coated",
+        "count": 6,
+        "evidence": "In addition, post-treatment with EMIMBF4 induced an intercon- nected network of short and circular PEDOT grains with increased polaron density, resulting in further improvement in α to max- imize the PF (38.46 μW m-1 ..."
+      },
+      {
+        "value": "solution cast film",
+        "count": 5,
+        "evidence": "They obtained a maximum PF of 23.5 μW m-1 K-2 with σ in the range of 0.3-300 S cm-1 and α in the range of 20-400 μV K-1 when the doping level was lowered from 33% to 14.5%.19 In 2013, Luo et al. reported the effects o..."
+      },
+      {
+        "value": "drop cast film",
+        "count": 4,
+        "evidence": "This method improved the intermo- lecular chain packing, yielding high σ (254 S cm-1) and a maxi- mum PF of 35 μW m-1 K-2.33 In 2017, Cho et al. compared the TE properties of P3HT and a diketopyrrolopyrrole (DPP)-base..."
+      },
+      {
+        "value": "printed film",
+        "count": 4,
+        "evidence": "Conversely, organic materials offer more cost-effective high-throughput fabrication using solution-based printing techniques with the additional advantages such as facile tunability of molecular struc- tures to tailor..."
+      },
+      {
+        "value": "solvent evaporation",
+        "count": 2,
+        "evidence": "These studies proved that the higher σ resulting from the vapor doping method is attributable to the crystalline ordering of the films after doping, because the morphology of the films was not disrupted, whereas the s..."
+      },
+      {
+        "value": "spray coated film",
+        "count": 2,
+        "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+      },
+      {
+        "value": "vacuum filtered film",
+        "count": 2,
+        "evidence": "Flexible TE devices have been fabricated with integration into flexible substrates including fabrics,98,99 organic elastomers such as polydimethyl- siloxane (PDMS),100,101 polyethylene terephthalate (PET),9,102-104 po..."
+      },
+      {
+        "value": "wet spun fibers",
+        "count": 2,
+        "evidence": "Flexible TE devices have been fabricated with integration into flexible substrates including fabrics,98,99 organic elastomers such as polydimethyl- siloxane (PDMS),100,101 polyethylene terephthalate (PET),9,102-104 po..."
+      },
+      {
+        "value": "wire bar coated film",
+        "count": 2,
+        "evidence": "For example, Zhu et al. reported that P3HT film doped with Fe(III) (TFSI)3 achieved a maximum PF of 26 μW m-1 K-2 at temperatures between 300 and 340 K, which was attributed to its high carrier concen- tration (1.62 ×..."
+      },
+      {
+        "value": "self assembled template",
+        "count": 1,
+        "evidence": "Summary of TE performances of flexible organic TE devices Material PF (μW m-1 K-2) ∆Ta (K) Pmax b (μW) Vout c (mV) Number of p/n couples Dimension of a leg (mm2 or mm3) Fabrication Method Ref n-type p-type n-type p-ty..."
+      },
+      {
+        "value": "spin coated film",
+        "count": 1,
+        "evidence": "They obtained a maximum PF of 23.5 μW m-1 K-2 with σ in the range of 0.3-300 S cm-1 and α in the range of 20-400 μV K-1 when the doping level was lowered from 33% to 14.5%.19 In 2013, Luo et al. reported the effects o..."
+      }
+    ],
+    "solvent": [
+      {
+        "value": "DMSO",
+        "count": 4,
+        "evidence": "Excess PSS, which acts as an insulator in PEDOT:PSS films, limits charge carrier transport, resulting in the σ of 0.012-17 S cm-1 and PF of 0.0016- 0.9 μW m-1 K-2.18 Various studies have attempted to optimize the elec..."
+      },
+      {
+        "value": "ethylene glycol",
+        "count": 3,
+        "evidence": "In addition, post-treatment with EMIMBF4 induced an intercon- nected network of short and circular PEDOT grains with increased polaron density, resulting in further improvement in α to max- imize the PF (38.46 μW m-1 ..."
+      },
+      {
+        "value": "EG",
+        "count": 2,
+        "evidence": "In addition, post-treatment with EMIMBF4 induced an intercon- nected network of short and circular PEDOT grains with increased polaron density, resulting in further improvement in α to max- imize the PF (38.46 μW m-1 ..."
+      },
+      {
+        "value": "a",
+        "count": 1,
+        "evidence": "That is, dopants should be dissolved in a semi- orthogonal solvent in which the pre-cast polymer films should not dissolve; rather, the films should expand to enable the dop- ants to penetrate the film without disturb..."
+      },
+      {
+        "value": "ace- tonitrile + chloroform to dope the polymer",
+        "count": 1,
+        "evidence": "As an example of p-doping, Muller et al. explored the coprocess- ing of p(g42T-T) and the dopant F4TCNQ in a 1:1 mixture of ace- tonitrile and chloroform to dope the polymer.44 Upon doping, the increased carrier densi..."
+      },
+      {
+        "value": "chlorobenzene",
+        "count": 1,
+        "evidence": "These studies proved that the higher σ resulting from the vapor doping method is attributable to the crystalline ordering of the films after doping, because the morphology of the films was not disrupted, whereas the s..."
+      },
+      {
+        "value": "chloroform",
+        "count": 1,
+        "evidence": "As an example of p-doping, Muller et al. explored the coprocess- ing of p(g42T-T) and the dopant F4TCNQ in a 1:1 mixture of ace- tonitrile and chloroform to dope the polymer.44 Upon doping, the increased carrier densi..."
+      },
+      {
+        "value": "dimethyl sulfoxide",
+        "count": 1,
+        "evidence": "Excess PSS, which acts as an insulator in PEDOT:PSS films, limits charge carrier transport, resulting in the σ of 0.012-17 S cm-1 and PF of 0.0016- 0.9 μW m-1 K-2.18 Various studies have attempted to optimize the elec..."
+      },
+      {
+        "value": "DMSO + the ionic liquid (IL)",
+        "count": 1,
+        "evidence": "They obtained a maximum PF of 23.5 μW m-1 K-2 with σ in the range of 0.3-300 S cm-1 and α in the range of 20-400 μV K-1 when the doping level was lowered from 33% to 14.5%.19 In 2013, Luo et al. reported the effects o..."
+      },
+      {
+        "value": "pyridine + triblock copolymer",
+        "count": 1,
+        "evidence": "At the optimal oxidation level of 22%, a maximum PF of 324 µW m-1 K-2 was achieved, resulting in a ZT of 0.25 at room temperature.26 Kim et al. introduced PP- PEDOT:Tos (PP-PEDOT: prepared from a mixture of pyridine a..."
+      },
+      {
+        "value": "the polymer + dopant",
+        "count": 1,
+        "evidence": "After casting the films of a mixture of the polymer and dopant, the films are heated to form N-DMBI neu- tral radicals."
+      },
+      {
+        "value": "the polymer + the dopant in the desired ratio",
+        "count": 1,
+        "evidence": "The method according to which a dopant is introduced into a polymer plays a critical role in determining the doping efficacy by charge transfer. “Solution-mixed doping” in which the doped polymer film is fabricated by..."
+      },
+      {
+        "value": "water",
+        "count": 1,
+        "evidence": "The salt was further removed by rinsing the films with water."
+      }
+    ]
+  }
+}
