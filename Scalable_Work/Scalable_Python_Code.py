@@ -1,70 +1,28 @@
+# 1. pandas — to load, clean, and organize the CSV data into tables you can analyze easily.
+# 2. matplotlib — to create the bar chart, box plots, and histogram plots.
+# 3. scipy — to calculate the Pearson correlation and other statistical values.
+# 4. numpy — to handle numerical operations efficiently behind the scenes.
+# 5. seaborn — to make the plots look cleaner and more polished with less code.
+
 import pandas as pd
-from pathlib import Path
 
-# =========================
-# 1. File settings
-# =========================
-file_path = r"Scalable_Work\Complete Extraction Results.xlsx"  # change this
-sheet_name = 0  # use 0 for first sheet, or put sheet name like "Sheet1"
+file_path = "Complete Extraction Results.xlsx"
 
-# =========================
-# 2. Load Excel file
-# =========================
-try:
-    if not Path(file_path).exists():
-        raise FileNotFoundError(f"Excel file not found: {file_path}")
+# Open the Excel file
+excel_file = pd.ExcelFile(file_path, engine="openpyxl")
 
-    df = pd.read_excel(file_path, sheet_name=sheet_name)
+# Show all sheet names
+print("Available sheets:")
+for i, sheet in enumerate(excel_file.sheet_names, start=1):
+    print(f"{i}. {sheet}")
 
-except Exception as e:
-    print(f"Error reading Excel file: {e}")
-    raise
+# Select a sheet by number
+choice = int(input("Enter sheet number: "))
+selected_sheet = excel_file.sheet_names[choice - 1]
 
-# =========================
-# 3. Clean column names
-# =========================
-df.columns = [str(col).strip() for col in df.columns]
+# Read that sheet
+df = pd.read_excel(file_path, sheet_name=selected_sheet, engine="openpyxl", header=1)
 
-# =========================
-# 4. Create indexed column table
-# =========================
-column_info = pd.DataFrame({
-    "column_index": range(len(df.columns)),
-    "column_name": df.columns
-})
-
-# =========================
-# 5. Create useful mappings
-# =========================
-index_to_name = dict(enumerate(df.columns))
-name_to_index = {name: idx for idx, name in enumerate(df.columns)}
-
-# =========================
-# 6. Display results
-# =========================
-print("\nColumns ready for analysis:\n")
-print(column_info.to_string(index=False))
-
-print("\nIndex to Name mapping:")
-print(index_to_name)
-
-print("\nName to Index mapping:")
-print(name_to_index)
-
-# =========================
-# 7. Example usage
-# =========================
-# Access column by index
-example_index = 0
-print(f"\nColumn at index {example_index}: {index_to_name[example_index]}")
-
-# Access data from a specific column
-selected_column = index_to_name[example_index]
-print(f"\nFirst 5 values from '{selected_column}':")
-print(df[selected_column].head())
-
-# =========================
-# 8. Optional: save column info
-# =========================
-column_info.to_csv("column_info.csv", index=False)
-print("\nColumn info saved as 'column_info.csv'")
+print(f"\nLoaded sheet: {selected_sheet}")
+print(df.head())
+print(f"\nColumns in the sheet: {df.columns.tolist()}")
