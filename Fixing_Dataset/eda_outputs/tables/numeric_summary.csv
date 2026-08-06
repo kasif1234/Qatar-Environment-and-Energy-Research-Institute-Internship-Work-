@@ -1,0 +1,6 @@
+column,count,mean,std,min,25%,50%,75%,max,missing_count
+molecular_design_flag,12.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0
+doping_flag,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+transport_decoupling_flag,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+morphology_control_flag,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0
+hybrid_composites_flag,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0

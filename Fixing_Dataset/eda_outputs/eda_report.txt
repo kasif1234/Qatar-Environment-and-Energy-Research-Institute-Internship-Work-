@@ -1,0 +1,42 @@
+Organic Thermoelectric Polymer Dataset EDA Report
+=================================================
+
+Input file: Complete Extraction Results__.csv
+Detected header row: 2
+Rows: 12
+Columns: 31
+
+Category flag counts:
+            category_flag  rows_with_flag  total_rows
+    molecular_design_flag              12          12
+              doping_flag               0          12
+transport_decoupling_flag               0          12
+  morphology_control_flag               0          12
+   hybrid_composites_flag               0          12
+
+Validation status counts:
+validation_status
+not_checkable    12
+
+Top 15 missing columns:
+                column  missing_count  missing_percent  non_missing_count  dtype
+      repeat_unit_name             10            83.33                  2 object
+    backbone_planarity             10            83.33                  2 object
+      fused_ring_count             10            83.33                  2 object
+  side_chain_branching             10            83.33                  2 object
+     side_chain_length             10            83.33                  2 object
+          structure_2d              9            75.00                  3 object
+       heteroatom_type              9            75.00                  3 object
+      ring_system_type              9            75.00                  3 object
+         backbone_type              9            75.00                  3 object
+    side_chain_present              9            75.00                  3 object
+          structure_3d              9            75.00                  3 object
+       side_chain_type              9            75.00                  3 object
+           charge_type              9            75.00                  3 object
+         parent_family              9            75.00                  3 object
+monomer_structure_text              9            75.00                  3 object
+
+Main outputs:
+- Cleaned dataset: eda_outputs\organic_te_cleaned_dataset.csv
+- Tables folder: eda_outputs\tables
+- Figures folder: eda_outputs\figures

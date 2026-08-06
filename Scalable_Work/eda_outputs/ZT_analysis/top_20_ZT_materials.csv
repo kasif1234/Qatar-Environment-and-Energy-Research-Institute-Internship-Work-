@@ -1,0 +1,21 @@
+exact_polymer_name,Polymer Family,Dopant,doping_method,ZT_final,Power_Factor,Electrical_Conductivity,Seebeck,Thermal_Conductivity,reference_doi,evidence_location
+"(6, 4, 4) PMHJ",Polymeric multi-heterojunction (PMHJ),Iron chloride (FeCl₃),Immersion (30 s),1.2348162475822,305.6328,134.89979,150.63286,0.15,https://doi.org/10.1038/s41586-024-07724-2,"Methods, Fig 1-4"
+"(6, 4, 4) PMHJ",Polymeric multi-heterojunction (PMHJ),,,1.23286,603.029347826087,,,0.18,,
+"(6, 4, 4) PMHJ",Polymeric multi-heterojunction (PMHJ),,,1.17667,,,,,,
+"(6, 4, 4) PMHJ",Polymeric multi-heterojunction (PMHJ),Iron chloride (FeCl₃),Immersion (30 s),1.17601547388781,292.83035,171.21331,130.95638,0.15,https://doi.org/10.1038/s41586-024-07724-2,"Methods, Fig 1-4"
+"(6, 4, 4) PMHJ",Polymeric multi-heterojunction (PMHJ),Iron chloride (FeCl₃),Immersion (30 s),1.1605415860735,310.08153,125.26597,157.53542,0.15,https://doi.org/10.1038/s41586-024-07724-2,"Methods, Fig 1-4"
+"(6, 4, 4) PMHJ",Polymeric multi-heterojunction (PMHJ),,,1.16047,,,,,,
+"(6, 4, 4) PMHJ",Polymeric multi-heterojunction (PMHJ),Iron chloride (FeCl₃),Immersion (30 s),1.05531914893617,287.90361,96.9842,172.52083,0.15,https://doi.org/10.1038/s41586-024-07724-2,"Methods, Fig 1-4"
+"(6, 4, 4) PMHJ",Polymeric multi-heterojunction (PMHJ),,,1.05273,,,,,,
+"(6, 4, 4) PMHJ",Polymeric multi-heterojunction (PMHJ),,,0.98732,,,,,,
+"(6, 4, 4) PMHJ",Polymeric multi-heterojunction (PMHJ),Iron chloride (FeCl₃),Immersion (30 s),0.987234042553191,230.76599,72.33909,178.8692,0.15,https://doi.org/10.1038/s41586-024-07724-2,"Methods, Fig 1-4"
+"(6, 4, 4) PMHJ",Polymeric multi-heterojunction (PMHJ),,,0.87614,,,,,,
+"(6, 4, 4) PMHJ",Polymeric multi-heterojunction (PMHJ),Iron chloride (FeCl₃),Immersion (30 s),0.875822050290135,161.00638,47.14361,185.12197,0.15,https://doi.org/10.1038/s41586-024-07724-2,"Methods, Fig 1-4"
+"(6, 4, 4) PMHJ",Polymeric multi-heterojunction (PMHJ),,,0.82815,,,,,,
+"(6, 4, 4) PMHJ",Polymeric multi-heterojunction (PMHJ),Iron chloride (FeCl₃),Immersion (30 s),0.826305609284332,139.10912,29.23545,218.6042,0.15,https://doi.org/10.1038/s41586-024-07724-2,"Methods, Fig 1-4"
+"(6, 4, 4) PMHJ",Polymeric multi-heterojunction (PMHJ),,,0.74891,,,,,,
+"(6, 4, 4) PMHJ",Polymeric multi-heterojunction (PMHJ),Iron chloride (FeCl₃),Immersion (30 s),0.745841392649903,116.48508,18.21883,253.55754,0.15,https://doi.org/10.1038/s41586-024-07724-2,"Methods, Fig 1-4"
+"(6, 4, 4) PMHJ",Polymeric multi-heterojunction (PMHJ),Iron chloride (FeCl₃),Immersion (30 s),0.6963249516441,75.57284,8.05109,307.00312,0.15,https://doi.org/10.1038/s41586-024-07724-2,"Methods, Fig 1-4"
+"(6, 4, 4) PMHJ",Polymeric multi-heterojunction (PMHJ),,,0.69198,348.3120805369128,,,0.15,,
+PDPPSe-12,Diketopyrrolopyrrole (DPP) derivative,Iron chloride (FeCl₃),Immersion (30 s),0.33447,408.9986413043478,,,0.45,,
+PDPPSe-12,Diketopyrrolopyrrole (DPP) derivative,Iron chloride (FeCl₃),Immersion (30 s),0.334235976789168,221.6616,521.2699,65.22322,0.45,https://doi.org/10.1038/s41586-024-07724-2,"Methods, Fig 1, Fig 3"
